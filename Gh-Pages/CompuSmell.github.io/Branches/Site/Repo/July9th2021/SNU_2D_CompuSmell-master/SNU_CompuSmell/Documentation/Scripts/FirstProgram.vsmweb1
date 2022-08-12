@@ -1,0 +1,9 @@
+import scent.garden // The garden scent library
+function playInTheGarden {
+	scent.spray("RaspberryBush.snint") [ (strength=10%) for { 0.1 second_s } ]; // snint is a portmanteau that means scent/sniff, it is a unique keyword for the language
+	scent.stop(all);
+}
+for x in range(1, 43) {
+	f.playInTheGarden();
+}
+#EOF // This is a required line

@@ -1,0 +1,4 @@
+function sayHelloWorld {
+	print.console("Hello world");
+}
+sayHelloWorld();
