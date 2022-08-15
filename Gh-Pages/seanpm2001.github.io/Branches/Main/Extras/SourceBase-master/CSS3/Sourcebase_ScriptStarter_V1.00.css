@@ -1,0 +1,356 @@
+/* Sourcebase CSS starter file
+Version 1.00 (September 26th 2019 build)
+Most recent: 1.00 (September 26th 2019 build)
+CSS starter script
+*/
+/* Start of stylesheet rules */
+/* Grid system */
+.grid-container {
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+/* Transparent boxes */
+div.background {
+  background: url(klematis.jpg) repeat;
+  border: 2px solid black;
+}
+div.transbox {
+  margin-top: 0px;
+  margin-bottom: 0px; 
+  margin-right: 0px;
+  margin-left: 0px;
+  background-color: #00BFFF; /* The text was there, the background was the wrong color. A new beautiful shade of blue was added to fix this - April 6th 2019 */
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=80); /* For IE8 and earlier */
+}
+div.transbox p {
+  margin: 1%; /* make sure this stays at 1%. At 5%, there is a large spacing issue between each new paragraph */
+  font-weight: bold;
+  color: #ffffff;
+}
+/* Sidebar */
+body {
+  margin: 0;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 16%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+li a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+/* Topbar */
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+/* Headings */
+H1 {
+	color: black;
+}
+H2 {
+	color: black;
+}
+H3 {
+	color: black;
+}
+H4 {
+	color: black;
+}
+H5 {
+	color: black;
+}
+H6 {
+	color: black;
+}
+/* Dividers, paragraphs */
+HR {
+	color: black;
+}
+p {
+	color: black;
+}
+/* Other rich text */
+i {
+	color: black;
+}
+u {
+	color: black;
+}
+b {
+	color: black;
+}
+s {
+	color: black;
+}
+sub {
+	color: black;
+}
+sup {
+	color: black;
+}
+/* Details and summary */
+details {
+	color: black;
+}
+summary {
+	color: black;
+}
+/* Progress bar 
+/* Option 1 */
+progress {
+	display:inline-block;
+	width:190px;
+	height:20px;
+	padding:15px 0 0 0;
+	margin:0;
+	background:none;
+	border: 0;
+	border-radius: 15px;
+	text-align: left;
+	position:relative;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+}
+progress::-webkit-progress-bar {
+	height:11px;
+	width:150px;
+	margin:0 auto;
+	background-color: #CCC;
+	border-radius: 15px;
+	box-shadow:0px 0px 6px #777 inset;
+}
+progress::-webkit-progress-value {
+	display:inline-block;
+	float:left;
+	height:11px;
+	margin:0px -10px 0 0;
+	background: #F70;
+	border-radius: 15px;
+	box-shadow:0px 0px 6px #777 inset;
+}
+progress:after {
+	margin:-26px 0 0 -7px;
+	padding:0;
+	display:inline-block;
+}
+/* Option 2 */
+#progress {
+    background: #333;
+    border-radius: 13px;
+    height: 20px;
+    width: 300px;
+    padding: 3px;
+}
+
+#progress:after {
+    content: '';
+    display: block;
+    background: orange;
+    width: 50%;
+    height: 100%;
+    border-radius: 9px;
+}
+/* Option 3 */
+#progressbar {
+  background-color: black;
+  border-radius: 13px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+}
+
+#progressbar>div {
+  background-color: orange;
+  width: 40%;
+  /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+/* Option 4 */
+/* not found */
+/* 
+More CSS - Blackboard kit
+blackboard kit 
+Version 1
+*/
+/* white text for all! */
+/* the blackboard CSS file optimizes text for dark backgrounds, just like chalk on a blackboard */
+/* heading section */
+h1 {
+	color: white;
+}
+H1 {
+	color: white;
+}
+h2 {
+	color: white;
+}
+H2 {
+	color: white;
+}
+h3 {
+	color: white;
+}
+H3 {
+	color: white;
+}
+h4 {
+	color: white;
+}
+H4 {
+	color: white;
+}
+h5 {
+	color: white;
+}
+H5 {
+	color: white;
+}
+h6 {
+	color: white;
+}
+H6 {
+	color: white;
+}
+/* rich text section */
+p {
+	color: white;
+}
+P {
+	color: white;
+}
+b {
+	color: white;
+}
+B {
+	color: white;
+}
+u {
+	color: white;
+}
+U {
+	color: white;
+}
+s {
+	color: white;
+}
+S {
+	color: white;
+}
+i {
+	color: white;
+}
+I {
+	color: white;
+}
+sub {
+	color: white;
+}
+SUB {
+	color: white;
+}
+sup {
+	color: white;
+}
+SUP {
+	color: white;
+}
+}
+details {
+	color: white;
+}
+DETAILS {
+	color: white;
+/* OPTIONAL */
+/*
+a {
+	color: white;
+}
+A {
+	color: white;
+}
+*/
+/* form section */
+form {
+	color: white;
+}
+FORM {
+	color: white;
+}
+/* specialized button hyperlink section */
+a {
+	color: green;
+}
+A {
+	color: green;
+}
+/* WebGL compatibility layer */
+canvas {
+	border: 2px solid black;
+	background-color: black;
+}
+video {
+	display: none;
+}
+/* end of stylesheet */
+/* End of stylesheet rules */
+/* Description
+None
+*/
+/* Statistics
+Character count: 05,.725 characters (05,.725 bytes) (05,.725 Kilobytes)
+Line count: 0,.356
+File type: *.css (Cascade Styling Sheets)
+Language: CSS (Cascade Styling Sheets)
+Version: 1 (September 26th 2019)
+Latest version: 1 (September 26th 2019)
+First version: 1 (September 26th 2019)
+*/
