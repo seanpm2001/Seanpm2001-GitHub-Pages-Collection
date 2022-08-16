@@ -1,0 +1,28 @@
+
+***
+
+# Project language files for Seanpm2001-GitHub-Pages-collection
+
+- [ ] Nim
+- [ ] Assembly
+- [ ] HTML5
+- [ ] SCSS
+- [ ] YAML
+- [ ] Markdown
+- [ ] Perl
+- [ ] HTTP
+- [ ] Makefile
+- [ ] desktop
+- [ ] INI
+- [ ] Roff
+- [ ] SVG
+- [ ] TXT
+- [ ] Robots.txt
+- [ ] Python
+- [ ] CSS
+- [ ] JavaScript
+- [ ] PHP
+- [ ] Ruby
+- [ ] Rust
+
+***
