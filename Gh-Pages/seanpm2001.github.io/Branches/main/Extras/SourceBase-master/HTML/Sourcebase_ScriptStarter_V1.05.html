@@ -1,0 +1,933 @@
+<!--- start of script !--->
+<HTML>
+<BODY>
+<head> <!-- external and internal resources needed for page !-->
+<!-- .*. !--> <!-- 01 !--><!-- Encoding !--><meta charset="UTF-16"><!-- the script needed for UTF-16 encoding !--><!-- Internal resource !-->
+<!-- .ico !--><!-- 02 !--<!-- Favicon !--><link rel="icon" href="[Brand]_UNDERCONSTRUCTION_favicon.ico" type="image/x-icon"/><!-- The favicon for this page !--><!-- external resource !-->
+<!-- No longer necessary !--><!-- .js !--> <!-- 03 !--<!-- JavaScript file 1 !--><!--<script type="text/javascript" src="ExpandAll_ScriptV1.00.js"></script><!-- the script needed to automatically expand all detail tags !--><!-- external resource !-->
+<!-- .js !--><!-- 04 !--><!-- JavaScript file !--><script type="text/javascript" src="Sourcebase_[Brand]ScriptStarter_V1.00.js"></script><!-- The full JavaScript [Brand] sheet, modify to your liking !-->
+<!-- No longer necessary !--><!-- .css !--><!-- 05 !--<!-- Stylesheet 1 !--><!--<link rel="stylesheet" type="text/css" href="2DStart_Style_StickySideBarVersion1.01.css"> <!-- The stylesheet for the sidebar !--><!-- external resource !-->
+<!-- No longer necessary !--><!-- .css !--><!-- 06 !--<!-- Stylesheet 2 !--><!--<link rel="stylesheet" type="text/css" href="TOP_NAVIGATION_BAR_V1.0.css"> <!-- The stylesheet for the top navigation pane !--><!-- external resource !-->
+<!-- .css !--><!-- 07 !--<!-- Stylesheet 3 !--><link rel="stylesheet" type="text/css" href="Sourcebase_[Brand]ScriptStarter_V1.01.css"> <!-- Make sure to modify this CSS to your liking !--><!-- The stylesheet for the white text !--><!-- external resource !-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Welcome to the homepage for the [Brand] Update log">
+<meta name="keywords" content="[Brand] development, logs, updates">
+<meta name="author" content="NOT_ANNOUNCDD">
+</head>
+<HEAD>
+<meta> <!-- Meta character set section !-->
+	<!-- meta charset="ANSI"> <!-- page encoding minimum !-->
+	<!-- meta charset="ASCII"> <!-- page encoding  !-->
+	<!-- meta charset="UC-2"> <!-- page encoding  !-->
+	<!-- meta charset="UTF-8"> <!-- page encoding  !-->
+	<meta charset="UTF-16"> <!-- Page encoding main !-->
+	<!-- meta charset="UTF-32"> <!-- page encoding  !-->
+</meta> <!-- End of meta character set section !-->
+<style>
+/* Sourcebase CSS starter file
+Version 1.01 (September 27th 2019 build)
+Most recent: 1.01 (September 27th 2019 build)
+CSS starter script
+*/
+/* Start of stylesheet rules */
+/* Grid system */
+.grid-container {
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+/* Transparent boxes */
+div.background {
+  background: url(klematis.jpg) repeat;
+  border: 2px solid black;
+}
+div.transbox {
+  margin-top: 0px;
+  margin-bottom: 0px; 
+  margin-right: 0px;
+  margin-left: 0px;
+  background-color: #00BFFF; /* The text was there, the background was the wrong color. A new beautiful shade of blue was added to fix this - April 6th 2019 */
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=80); /* For IE8 and earlier */
+}
+div.transbox p {
+  margin: 1%; /* make sure this stays at 1%. At 5%, there is a large spacing issue between each new paragraph */
+  font-weight: bold;
+  color: #ffffff;
+}
+/* Sidebar */
+body {
+  margin: 0;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 16%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+li a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+/* Topbar */
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+/* Dropdown */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+/* Headings */
+H1 {
+	color: black;
+}
+H2 {
+	color: black;
+}
+H3 {
+	color: black;
+}
+H4 {
+	color: black;
+}
+H5 {
+	color: black;
+}
+H6 {
+	color: black;
+}
+/* Dividers, paragraphs */
+HR {
+	color: black;
+}
+p {
+	color: black;
+}
+/* Other rich text */
+i {
+	color: black;
+}
+u {
+	color: black;
+}
+b {
+	color: black;
+}
+s {
+	color: black;
+}
+sub {
+	color: black;
+}
+sup {
+	color: black;
+}
+/* Details and summary */
+details {
+	color: black;
+}
+summary {
+	color: black;
+}
+/* Progress bar 
+/* Option 1 */
+progress {
+	display:inline-block;
+	width:190px;
+	height:20px;
+	padding:15px 0 0 0;
+	margin:0;
+	background:none;
+	border: 0;
+	border-radius: 15px;
+	text-align: left;
+	position:relative;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+}
+progress::-webkit-progress-bar {
+	height:11px;
+	width:150px;
+	margin:0 auto;
+	background-color: #CCC;
+	border-radius: 15px;
+	box-shadow:0px 0px 6px #777 inset;
+}
+progress::-webkit-progress-value {
+	display:inline-block;
+	float:left;
+	height:11px;
+	margin:0px -10px 0 0;
+	background: #F70;
+	border-radius: 15px;
+	box-shadow:0px 0px 6px #777 inset;
+}
+progress:after {
+	margin:-26px 0 0 -7px;
+	padding:0;
+	display:inline-block;
+}
+/* Option 2 */
+#progress {
+    background: #333;
+    border-radius: 13px;
+    height: 20px;
+    width: 300px;
+    padding: 3px;
+}
+
+#progress:after {
+    content: '';
+    display: block;
+    background: orange;
+    width: 50%;
+    height: 100%;
+    border-radius: 9px;
+}
+/* Option 3 */
+#progressbar {
+  background-color: black;
+  border-radius: 13px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+}
+
+#progressbar>div {
+  background-color: orange;
+  width: 40%;
+  /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+/* Option 4 */
+/* Step 1 */
+progress,          /* All HTML5 progress enabled browsers */
+{
+
+    /* Turns off styling - not usually needed, but good to know. */
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+
+}
+/* Step 2 */
+/* IE10 */
+progress {
+    color: black;
+}
+
+/* Firefox */
+progress::-moz-progress-bar { 
+    background: black;  
+}
+
+/* Chrome */
+progress::-webkit-progress-value {
+    background: black;
+}
+/* Step 3 */
+progress[value^="9"]::-moz-progress-bar {
+background-color : red;
+}
+/* 
+More CSS - Blackboard kit
+blackboard kit 
+Version 1
+*/
+/* white text for all! */
+/* the blackboard CSS file optimizes text for dark backgrounds, just like chalk on a blackboard */
+/* heading section */
+h1 {
+	color: white;
+}
+H1 {
+	color: white;
+}
+h2 {
+	color: white;
+}
+H2 {
+	color: white;
+}
+h3 {
+	color: white;
+}
+H3 {
+	color: white;
+}
+h4 {
+	color: white;
+}
+H4 {
+	color: white;
+}
+h5 {
+	color: white;
+}
+H5 {
+	color: white;
+}
+h6 {
+	color: white;
+}
+H6 {
+	color: white;
+}
+/* rich text section */
+p {
+	color: white;
+}
+P {
+	color: white;
+}
+b {
+	color: white;
+}
+B {
+	color: white;
+}
+u {
+	color: white;
+}
+U {
+	color: white;
+}
+s {
+	color: white;
+}
+S {
+	color: white;
+}
+i {
+	color: white;
+}
+I {
+	color: white;
+}
+sub {
+	color: white;
+}
+SUB {
+	color: white;
+}
+sup {
+	color: white;
+}
+SUP {
+	color: white;
+}
+}
+details {
+	color: white;
+}
+DETAILS {
+	color: white;
+/* OPTIONAL */
+/*
+a {
+	color: white;
+}
+A {
+	color: white;
+}
+*/
+/* form section */
+form {
+	color: white;
+}
+FORM {
+	color: white;
+}
+/* specialized button hyperlink section */
+a {
+	color: green;
+}
+A {
+	color: green;
+}
+/* WebGL compatibility layer */
+canvas {
+	border: 2px solid black;
+	background-color: black;
+}
+video {
+	display: none;
+}
+/* Gallery */
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Border image */
+#borderimg { 
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+}
+/* end of stylesheet */
+/* End of stylesheet rules */
+/* Description
+None
+*/
+/* Statistics
+Character count: 07,.349 characters (07,.349 bytes) (07,.349 Kilobytes)
+Line count: 0,.456
+File type: *.css (Cascade Styling Sheets)
+Language: CSS (Cascade Styling Sheets)
+Version: 2 (September 27th 2019)
+Latest version: 2 (September 27th 2019)
+First version: 1 (September 26th 2019)
+*/
+</style>
+<?
+// PHP section
+?>
+<script>
+console.log("[Brand] web console for [browser]");
+console.log("The [section] console");
+console.log(">>>");
+</script>
+<ruby>
+</ruby>
+<TITLE>SourceBase HTML V1.05 - [Brand] script starter kit resource file</TITLE> <!-- Page title !-->
+</HEAD>
+<BODY BGCOLOR="NAVY"> <!-- Background color !-->
+<!-- Brief color list
+Black (000000)
+White (FFFFFF)
+Cyan (00FFFF)
+Navy (000080)
+Dark grey (333333)
+Light grey (777777)
+Red (FF0000)
+Green (00FF00)
+Turquiose (40E0D0)
+!-->
+<BODY BACKGROUND=".png"> <!-- Background image !--> <!-- Allowed formats: .png .jpg .jpe .jif .gif .bmp .dib .tif .tiff !-->
+<!-- Top navigation bar !-->
+<div class="topnav">
+<a class="active" href="">[PAGE_TITLE/SITE_NAME([Brand])]</a>
+<a href="about:blank">[-]</a><!-- empty link !-->
+<a href="about:blank">[-]</a><!-- empty link !-->
+<a href="about:blank">[-]</a><!-- empty link !-->
+<a href="about:blank">[-]</a><!-- empty link !-->
+<a href="about:blank">[-]</a><!-- empty link !-->
+<a href="about:blank">[-]</a><!-- empty link !-->
+<a href="about:blank">[-]</a><!-- empty link !-->
+<a href="about:blank">[-]</a><!-- empty link !-->
+<a href="about:blank">[-]</a><!-- empty link !-->
+</div> 
+<!-- Top navigation bar !-->
+<!-- Divider !-->
+<!-- Sidebar !-->
+<ul>
+<img src="SampleIcon1.png" alt="Logo.Profile_Icon" width="225" height="225">
+<li><a class="active" href="#home">[Page title]</a></li>
+<HR>
+<details>
+	<summary><li><a href="#EXPLORE">[Section description]</a></li></summary>
+	</details>
+	<li><HR></li>
+	<details><summary><li id="">Section 1</a></li></summary>
+	<li><a href=".html">Link 1</a></li>
+	</details>
+ 	<li><HR></li>
+	<details><summary><li id="">Section 2</a></li></summary>
+	<li><a href=".html">Link 1</a></li>
+	</details>
+ 	<li><HR></li>	
+	<details><summary><li id="">Section 3</a></li></summary>
+	<li><a href=".html">Link 1</a></li>
+	</details>
+ 	<li><HR></li>
+</ul>
+<div style="margin-left:15.1%;padding:1px 16px;height:1000px;">
+<!-- End of sidebar and topbar section !-->
+<HR>
+<!-- File info (default)
+Line indent style: Unix (LF)
+Languages: HTML5, CSS3, JS1.8, RUBY2.6, PHP 7.3
+Derived from: Sourcebase_[Brand]ScriptStarter (version 1.04)
+!-->
+<H1>[Title section] Sourcebase - the [Brand] base code starter kit</H1>
+<HR>
+<!-- Index section !-->
+<H1>Index</H1>
+<H2><button><a href="#ID_HERE_6686">Index 1</a></button></H2>
+<H2><button><a href="#ID_HERE_6687">Index 2</a></button></H2>
+<!-- End of index section !-->
+<HR>
+<!-- Sidebar !-->
+<section>
+<H1>Heading 1</H1>
+<H2>Heading 2</H2>
+<H3>Heading 3</H3>
+<H4>Heading 4</H4>
+<H5>Heading 5</H5>
+<H6>Heading 6</H6>
+</section>
+<HR>
+<!-- Media section !-->
+	<!-- Image section !-->
+	<section>
+	<H2>Image gallery</H2>
+	<img src=".png" alt=".png" width="256" height="256">
+	<img src=".jpg" alt=".jpg" width="256" height="256">
+	<img src=".gif" alt=".gif" width="256" height="256">
+	<img src=".bmp" alt=".bmp" width="256" height="256">
+	<img src=".ico" alt=".ico" width="256" height="256">
+	<img src=".tif" alt=".tif" width="256" height="256">
+	<HR>
+	</section>
+	<!-- Image section !-->
+	<!-- Video section !--> <!-- Thank you Wikipedia for this script, and also for the poster tag !-->
+	<!-- source: https://en.wikipedia.org/wiki/HTML5_video !-->
+	<section>
+	<H2>Video gallery</H2>
+	<video src="movie.webm" poster="blankThumbnail.png" controls>
+	This is fallback content to display for user agents that do not support the video tag.
+	</video>
+	<video src="movie.mp4" poster="blankThumbnail.png" controls>
+	This is fallback content to display for user agents that do not support the video tag.
+	</video>
+	<HR>
+	<H2>Anti-thumbnail video gallery</H2>
+	<video src="movie.webm" controls>
+	Your browser does not support the video tag.
+	</video>
+	<video src="movie.mp4" controls>
+	Your browser does not support the video tag.
+	</video>
+	</section>
+	<!-- Video section !-->
+	<HR>
+	<section>
+	<H2>Audio gallery</H2>
+	<!-- Audio section !-->
+	<audio controls> <!-- Thanks to Wikipedia for this script !--><!-- source: https://en.wikipedia.org/wiki/HTML5_audio !-->
+	<!--<source src="http://media.w3.org/2010/07/bunny/04-Death_Becomes_Fur.mp4" type='audio/mp4' />
+	<source src="http://media.w3.org/2010/07/bunny/04-Death_Becomes_Fur.oga" type='audio/ogg; codecs=vorbis' />!-->
+	<p>Your user agent does not support the HTML5 Audio element.</p>
+	</audio>
+	<audio controls> 
+	<source src=".ogg" type='audio/ogg; codecs=vorbis' />
+	<p>Failed to load HTML5 audio</p>
+	</section>
+	</audio>
+	<!-- Audio section !-->
+<!-- Media section !-->
+<!-- PHP section !-->
+<?
+/* Parental filter disabled in alpha */
+?>
+<!-- PHP section !-->
+<!-- Ruby section !-->
+<ruby>
+	<rt>Test</rt>
+	print 'Please enter a value >'
+	value1 = gets.chomp
+	puts "You have entered #{name}."
+</ruby>
+<HR>
+<!-- Dropdown Template V1 !-->
+<section>
+<H1>Dropdown list</H1>
+<form>
+	<select name="AUDIO_FORMATS" size="10">
+		<!-- 1 !--><option value="VALUE1">List Value #1</option>
+		<!-- 2 !--><option value="VALUE1">List Value #2</option>
+		<!-- 3 !--><option value="VALUE1">List Value #3</option>
+		<!-- 4 !--><option value="VALUE1">List Value #4</option>
+		<!-- 5 !--><option value="VALUE1">List Value #5</option>
+		<!-- 6 !--><option value="VALUE1">List Value #6</option>
+		<!-- 7 !--><option value="VALUE1">List Value #7</option>
+		<!-- 8 !--><option value="VALUE1">List Value #8</option>
+		<!-- 9 !--><option value="VALUE1">List Value #9</option>
+		<!-- 10 !--><option value="VALUE1">List Value #10</option>
+	</select>
+</form>
+</section>
+<HR>
+<section>
+<H2>Rating choice</H2>
+<form>
+	<input type="radio">0.5 stars</input>
+	<input type="radio">1.0 stars</input>
+	<input type="radio">1.5 stars</input>
+	<input type="radio">2.0 stars</input>
+	<input type="radio">2.5 stars</input>
+	<input type="radio">3.0 stars</input>
+	<input type="radio">3.5 stars</input>
+	<input type="radio">4.0 stars</input>
+	<input type="radio">4.5 stars</input>
+	<input type="radio">5.0 stars</input>
+</form>
+</section>
+<HR>
+<section>
+<H2>Rating choice 2</H2>
+<details><summary><p>Long</p></summary>
+<form>
+	<input type="radio">0/10</input>
+	<input type="radio">0.1/10</input>
+	<input type="radio">0.2/10</input>
+	<input type="radio">0.3/10</input>
+	<input type="radio">0.4/10</input>
+	<input type="radio">0.5/10</input>
+	<input type="radio">0.6/10</input>
+	<input type="radio">0.7/10</input>
+	<input type="radio">0.8/10</input>
+	<input type="radio">0.9/10</input>
+	<input type="radio">1.0/10</input>
+	<input type="radio">1.1/10</input>
+	<input type="radio">1.2/10</input>
+	<input type="radio">1.3/10</input>
+	<input type="radio">1.4/10</input>
+	<input type="radio">1.5/10</input>
+	<input type="radio">1.6/10</input>
+	<input type="radio">1.7/10</input>
+	<input type="radio">1.8/10</input>
+	<input type="radio">1.9/10</input>
+	<input type="radio">2.0/10</input>
+	<input type="radio">2.1/10</input>
+	<input type="radio">2.2/10</input>
+	<input type="radio">2.3/10</input>
+	<input type="radio">2.4/10</input>
+	<input type="radio">2.5/10</input>
+	<input type="radio">2.6/10</input>
+	<input type="radio">2.7/10</input>
+	<input type="radio">2.8/10</input>
+	<input type="radio">2.9/10</input>
+	<input type="radio">3.0/10</input>
+	<input type="radio">3.1/10</input>
+	<input type="radio">3.2/10</input>
+	<input type="radio">3.3/10</input>
+	<input type="radio">3.4/10</input>
+	<input type="radio">3.5/10</input>
+	<input type="radio">3.6/10</input>
+	<input type="radio">3.7/10</input>
+	<input type="radio">3.8/10</input>
+	<input type="radio">3.9/10</input>
+	<input type="radio">4.0/10</input>
+	<input type="radio">4.1/10</input>
+	<input type="radio">4.2/10</input>
+	<input type="radio">4.3/10</input>
+	<input type="radio">4.4/10</input>
+	<input type="radio">4.5/10</input>
+	<input type="radio">4.6/10</input>
+	<input type="radio">4.7/10</input>
+	<input type="radio">4.8/10</input>
+	<input type="radio">4.9/10</input>
+	<input type="radio">5.0/10</input>
+	<input type="radio">5.1/10</input>
+	<input type="radio">5.2/10</input>
+	<input type="radio">5.3/10</input>
+	<input type="radio">5.4/10</input>
+	<input type="radio">5.5/10</input>
+	<input type="radio">5.6/10</input>
+	<input type="radio">5.7/10</input>
+	<input type="radio">5.8/10</input>
+	<input type="radio">5.9/10</input>
+	<input type="radio">6.0/10</input>
+	<input type="radio">6.1/10</input>
+	<input type="radio">6.2/10</input>
+	<input type="radio">6.3/10</input>
+	<input type="radio">6.4/10</input>
+	<input type="radio">6.5/10</input>
+	<input type="radio">6.6/10</input>
+	<input type="radio">6.7/10</input>
+	<input type="radio">6.8/10</input>
+	<input type="radio">6.9/10</input>
+	<input type="radio">7.0/10</input>
+	<input type="radio">7.1/10</input>
+	<input type="radio">7.2/10</input>
+	<input type="radio">7.3/10</input>
+	<input type="radio">7.4/10</input>
+	<input type="radio">7.5/10</input>
+	<input type="radio">7.6/10</input>
+	<input type="radio">7.7/10</input>
+	<input type="radio">7.8/10</input>
+	<input type="radio">7.9/10</input>
+	<input type="radio">8.0/10</input>
+	<input type="radio">8.1/10</input>
+	<input type="radio">8.2/10</input>
+	<input type="radio">8.3/10</input>
+	<input type="radio">8.4/10</input>
+	<input type="radio">8.5/10</input>
+	<input type="radio">8.6/10</input>
+	<input type="radio">8.7/10</input>
+	<input type="radio">8.8/10</input>
+	<input type="radio">8.9/10</input>
+	<input type="radio">9.0/10</input>
+	<input type="radio">9.1/10</input>
+	<input type="radio">9.2/10</input>
+	<input type="radio">9.3/10</input>
+	<input type="radio">9.4/10</input>
+	<input type="radio">9.5/10</input>
+	<input type="radio">9.6/10</input>
+	<input type="radio">9.7/10</input>
+	<input type="radio">9.8/10</input>
+	<input type="radio">9.9/10</input>
+	<input type="radio">10.0/10</input>
+</form>
+</details>
+</section>
+<HR>
+<section>
+<H2>Rating choice 3</H2>
+<form>
+	<input type="radio">1/3</input>
+	<input type="radio">2/3</input>
+	<input type="radio">3/3</input>
+</form>
+</section>
+<HR>
+<section>
+<H2>Rating choice 4</H2>
+<form>
+	<input type="radio">1/7</input>
+	<input type="radio">2/7</input>
+	<input type="radio">3/7</input>
+	<input type="radio">4/7</input>
+	<input type="radio">5/7</input>
+	<input type="radio">6/7</input>
+	<input type="radio">7/7</input>
+</form>
+</section>
+<HR>
+<section>
+<H2>To-do list</H2>
+<form>
+	<input type="checkbox">Modify page CSS</input>
+	<input type="checkbox">Modify page JS</input>
+	<input type="checkbox">Modify page HTML</input>
+	<input type="checkbox">Modify background color</input>
+	<input type="checkbox">Add new features</input>
+</form>
+</section>
+<HR>
+<section>
+<H1>1D mode compatibility</H1>
+<H2>Strip various parts of the page out, including CSS, JS, images, video, audio, and several tags</H2>
+</section>
+<HR>
+<H1>Info dialog boxes</H1>
+<!-- Transparent box classic template !-->
+</article>
+<div class="background">
+	<div class="transbox">
+		<details><summary><H3 id="ID_HERE_6686">Heading here</H3></summary>
+		<p><b>Add a top description here</b></p>
+		<p>Add a middle description here</p>
+		<p><b>Add a bottom description here</b></p>
+		</details>
+	</div>
+</div>
+</article>
+<HR>
+</section>
+<div class="background">
+	<div class="transbox">
+		<details><summary><H3 id="ID_HERE_6687">Heading here</H3></summary>
+		<p><b>Add a top description here</b></p>
+		<p>Add a middle description here</p>
+		<p><b>Add a bottom description here</b></p>
+		</details>
+	</div>
+</div>
+<section>
+<!-- Transparent box classic template !-->
+<HR>
+<!-- Dropdown Template V1 !-->
+<!-- Content not found !-->
+<!-- Snapshot sections !-->
+<!-- Use this to travel to older versions of the same page
+to make it work properly, always add a _snapshot#.html to the end of the file name.
+Use CTRL+H (Notepad++) and replace File_ with the file name and add an underscore
+3 variations of a snapshot section are listed
+!-->
+<!-- snapshot section V1 !-->
+<section>
+<details><summary><H2>View older versions of this page (template1)</H2></summary> <!-- Snapshot section variation 1 !-->
+<H3>Snapshots 1 to 10</H3>
+<H4><a href="File_Snapshot1.html">Snapshot 1</a></H4>
+<H4><a href="File_Snapshot2.html">Snapshot 2</a></H4>
+<H4><a href="File_Snapshot3.html">Snapshot 3</a></H4>
+<H4><a href="File_Snapshot4.html">Snapshot 4</a></H4>
+<H4><a href="File_Snapshot5.html">Snapshot 5</a></H4>
+<H4><a href="File_Snapshot6.html">Snapshot 6</a></H4>
+<H4><a href="File_Snapshot7.html">Snapshot 7</a></H4>
+<H4><a href="File_Snapshot8.html">Snapshot 8</a></H4>
+<H4><a href="File_Snapshot9.html">Snapshot 9</a></H4>
+<H4><a href="File_Snapshot10.html">Snapshot 10</a></H4>
+<H3>Snapshots 11 to 20</H3>
+<H4><a href="File_Snapshot11.html">Snapshot 11</a></H4>
+<H4><a href="File_Snapshot12.html">Snapshot 12</a></H4>
+<H4><a href="File_Snapshot13.html">Snapshot 13</a></H4>
+<H4><a href="File_Snapshot14.html">Snapshot 14</a></H4>
+<H4><a href="File_Snapshot15.html">Snapshot 15</a></H4>
+<H4><a href="File_Snapshot16.html">Snapshot 16</a></H4>
+<H4><a href="File_Snapshot17.html">Snapshot 17</a></H4>
+<H4><a href="File_Snapshot18.html">Snapshot 18</a></H4>
+<H4><a href="File_Snapshot19.html">Snapshot 19</a></H4>
+<H4><a href="File_Snapshot20.html">Snapshot 20</a></H4>
+</details>
+</section>
+<!-- snapshot section V1 !-->
+<HR>
+<!-- snapshot section V2 !-->
+<section>
+<details><summary><H2>View older versions of this page (template2)</H2></summary> <!-- Snapshot section variation 2 !-->
+<H3>Snapshots 1 to 10</H3>
+<H4><button><a href="File_Snapshot1.html">Snapshot 1</a></button></H4>
+<H4><button><a href="File_Snapshot2.html">Snapshot 2</a></button></H4>
+<H4><button><a href="File_Snapshot3.html">Snapshot 3</a></button></H4>
+<H4><button><a href="File_Snapshot4.html">Snapshot 4</a></button></H4>
+<H4><button><a href="File_Snapshot5.html">Snapshot 5</a></button></H4>
+<H4><button><a href="File_Snapshot6.html">Snapshot 6</a></button></H4>
+<H4><button><a href="File_Snapshot7.html">Snapshot 7</a></button></H4>
+<H4><button><a href="File_Snapshot8.html">Snapshot 8</a></button></H4>
+<H4><button><a href="File_Snapshot9.html">Snapshot 9</a></button></H4>
+<H4><button><a href="File_Snapshot10.html">Snapshot 10</a></button></H4>
+<H3>Snapshots 11 to 20</H3>
+<H4><button><a href="File_Snapshot11.html">Snapshot 11</a></button></H4>
+<H4><button><a href="File_Snapshot12.html">Snapshot 12</a></button></H4>
+<H4><button><a href="File_Snapshot13.html">Snapshot 13</a></button></H4>
+<H4><button><a href="File_Snapshot14.html">Snapshot 14</a></button></H4>
+<H4><button><a href="File_Snapshot15.html">Snapshot 15</a></button></H4>
+<H4><button><a href="File_Snapshot16.html">Snapshot 16</a></button></H4>
+<H4><button><a href="File_Snapshot17.html">Snapshot 17</a></button></H4>
+<H4><button><a href="File_Snapshot18.html">Snapshot 18</a></button></H4>
+<H4><button><a href="File_Snapshot19.html">Snapshot 19</a></button></H4>
+<H4><button><a href="File_Snapshot20.html">Snapshot 20</a></button></H4>
+</details>
+</section>
+<!-- snapshot section V2 !-->
+<HR>
+<!-- snapshot section V3 !-->
+<section>
+<details><summary><H2>View older versions of this page (template3)</H2></summary> <!-- Snapshot section variation 3 !-->
+<H3>Snapshots 1 to 10</H3>
+<H4><button><a href="File_Snapshot1.html">Snapshot 1</a>></button><button><a href="File_Snapshot2.html">Snapshot 2</a></button><<button><a href="File_Snapshot3.html">Snapshot 3</a></button><button><a href="File_Snapshot4.html">Snapshot 4</a></button><button><a href="File_Snapshot5.html">Snapshot 5</a>></button><button><a href="File_Snapshot6.html">Snapshot 6</a></button><button><a href="File_Snapshot7.html">Snapshot 7</a></button><button><a href="File_Snapshot8.html">Snapshot 8</a></button><button><a href="File_Snapshot9.html">Snapshot 9</a></button><button><a href="File_Snapshot10.html">Snapshot 10</a></button></H4>
+<H3>Snapshots 11 to 20</H3>
+<H4><button><a href="File_Snapshot11.html">Snapshot 11</a>></button><button><a href="File_Snapshot12.html">Snapshot 12</a></button><<button><a href="File_Snapshot13.html">Snapshot 13</a></button><button><a href="File_Snapshot14.html">Snapshot 14</a></button><button><a href="File_Snapshot15.html">Snapshot 15</a>></button><button><a href="File_Snapshot16.html">Snapshot 16</a></button><button><a href="File_Snapshot17.html">Snapshot 17</a></button><button><a href="File_Snapshot18.html">Snapshot 18</a></button><button><a href="File_Snapshot19.html">Snapshot 19</a></button><button><a href="File_Snapshot20.html">Snapshot 20</a></button></H4>
+</details>
+</section>
+<!-- snapshot section V3 !-->
+<HR>
+<H1>You have reached the bottom of this page.</H1>
+<HR>
+<footer>
+<!--<p>Footer content here</p>!-->
+<p>Footer not yet set up</p>
+</footer>
+<!-- Bottom script (filler) !-->
+</HR>
+</BODY>
+<!-- </BODY> !-->
+<!-- This page was built off the basis of [Brand] Sourcebase HTML scriptstarter 1.05 !-->
+</HTML>
+<!-- Bottom script (filler) !-->
+<!--- end of script !--->
