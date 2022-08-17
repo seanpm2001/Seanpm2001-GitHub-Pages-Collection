@@ -9,10 +9,7 @@ Tasks: [
     ];
     README: "Update README.md file" [
       Changes: [
-        Icon: "Add icon"
-        Desc: "Improve description"
-        List: "List GitHub Pages projects with local links"
-        Other: "Other/Unspecified"
+        Status: "Done"
       ];
       Other: "Other/Unspecified"
     ];
@@ -24,5 +21,5 @@ Tasks: [
 ];
 # File info
 # File type: YAML source file (*.yml *.yaml)
-# File version: 1 (2022, Tuesday, August 16th at 9:02 pm PST)
-# Line count (including blank lines and compiler line): 29
+# File version: 2 (2022, Wednesday, August 17th at 4:52 pm PST)
+# Line count (including blank lines and compiler line): 26
