@@ -1,0 +1,25 @@
+TODO: Seanpm2001-GitHub-Pages-Collection
+File: /.todo.yml
+Tasks: [
+  Maintenance: [
+    Metadata: "Add metadata" [
+      Tags: "Add tags"
+      Link: "Add URL"
+      Other: "Add other metadata"
+    ];
+    README: "Update README.md file" [
+      Changes: [
+        Status: "Done"
+      ];
+      Other: "Other/Unspecified"
+    ];
+  ];
+  Updates: [
+    UpdateDesc: "Update GitHub Pages projects"
+    Requirement: "Finish maintenance steps, and publish a release first"
+  ];
+];
+# File info
+# File type: YAML source file (*.yml *.yaml)
+# File version: 2 (2022, Wednesday, August 17th at 4:52 pm PST)
+# Line count (including blank lines and compiler line): 26
