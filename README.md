@@ -1,6 +1,8 @@
 
 ***
 
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this entire article</b></p></summary>
+
 # Seanpm2001 GitHub Pages Collection
 
 ![GitHubPagesIcon.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/GitHubPagesIcon.png)
@@ -94,9 +96,9 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 [15.0 - Contributing](#Contributing)
 
-[16.0 - About README](#About-README)
+[16.0 - File Info](#File-info)
 
-[17.0 - README Version history](#README-version-history)
+[17.0 - File history](#File-history)
 
 [18.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
@@ -121,11 +123,18 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse this list</b></p></summary>
 
+**Resources:**
+
+- [`(INTERNAL) /Gh-Pages/`](/Gh-Pages/)
+- [`(INTERNAL) REPOLIST`](/Seanpm2001-GitHub-Pages-Collection_REPOLIST.urll)
+
 1. [404-Day.github.io](/Gh-Pages/404-Day.github.io/)
 
 > [Branch: Development](/Gh-Pages/404-Day.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/404-Day.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_404-Day.github.io/)
 
 2. [9x-Internet.github.io](/Gh-Pages/9x-Internet.github.io/)
 
@@ -133,11 +142,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/9x-Internet.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_9x-Internet.github.io/)
+
 3. [AUTOMATE-2001.github.io](/Gh-Pages/AUTOMATE-2001.github.io/)
 
 > [Branch: Development](/Gh-Pages/AUTOMATE-2001.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/AUTOMATE-2001.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_AUTOMATE-2001.github.io/)
 
 4. [BGemJam-game.github.io](/Gh-Pages/BGemJam-game.github.io/)
 
@@ -145,11 +158,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/BGemJam-game.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_BGemJam-game.github.io/)
+
 5. [BluPhone.github.io](/Gh-Pages/BluPhone.github.io/)
 
 > [Branch: Development](/Gh-Pages/BluPhone.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/BluPhone.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_BluPhone.github.io/)
 
 6. [Boom-Bay.github.io](/Gh-Pages/Boom-Bay.github.io/)
 
@@ -157,11 +174,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Boom-Bay.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Boom-Bay.github.io/)
+
 7. [BootDown-dev.github.io](/Gh-Pages/BootDown-dev.github.io/)
 
 > [Branch: Development](/Gh-Pages/BootDown-dev.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/BootDown-dev.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Bootdown-dev.github.io/)
 
 8. [Bosky-dev.github.io](/Gh-Pages/Bosky-dev.github.io/)
 
@@ -169,11 +190,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Bosky-dev.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Bosky-dev.github.io/)
+
 9. [CamCamPlus.github.io](/Gh-Pages/CamCamPlus.github.io/)
 
 > [Branch: Development](/Gh-Pages/CamCamPlus.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/CamCamPlus.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_CamCamPlus.github.io/)
 
 10. [Code-distancing.github.io](/Gh-Pages/Code-distancing.github.io/)
 
@@ -181,11 +206,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Code-distancing.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Code-distancing.github.io/)
+
 11. [CompuSmell.github.io](/Gh-Pages/CompuSmell.github.io/)
 
 > [Branch: Development](/Gh-Pages/CompuSmell.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/CompuSmell.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_CompuSmell.github.io/)
 
 12. [Computing-longevity.github.io](/Gh-Pages/Computing-longevity.github.io/)
 
@@ -193,15 +222,21 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Computing-longevity.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Computing-longevity.github.io/)
+
 13. [Cyborg-System-Monitor.github.io](/Gh-Pages/Cyborg-System-Monitor.github.io/)
 
 > [Branch: Development](/Gh-Pages/Cyborg-System-Monitor.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Cyborg-System-Monitor.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Cyborg-System-Monitor.github.io/)
+
 14. [DeGoogle-your-life.github.io](/Gh-Pages/DeGoogle-your-life.github.io/)
 
 > [Branch: main](/Gh-Pages/DeGoogle-your-life.github.io/Branches/main/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_DeGoogle-your-life.github.io/)
 
 15. [DentalBar-Whitetooth-pro.github.io](/Gh-Pages/DentalBar-Whitetooth-pro.github.io/)
 
@@ -209,11 +244,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/DentalBar-Whitetooth-pro.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_DentalBar-Whitetooth-pro.github.io/)
+
 16. [Doorcrete.github.io](/Gh-Pages/Doorcrete.github.io/)
 
 > [Branch: Development](/Gh-Pages/Doorcrete.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Doorcrete.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Doorcrete.github.io/)
 
 17. [Egg-org.github.io](/Gh-Pages/Egg-org.github.io/)
 
@@ -221,11 +260,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Egg-org.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Egg-org.github.io/)
+
 18. [Engineer-Superdesk.github.io](/Gh-Pages/Engineer-Superdesk.github.io/)
 
 > [Branch: Development](/Gh-Pages/Engineer-Superdesk.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Engineer-Superdesk.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Engineer-Superdesk.github.io/)
 
 19. [FINF-dev.github.io](/Gh-Pages/FINF-dev.github.io/)
 
@@ -233,11 +276,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/FINF-dev.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_FINF-dev.github.io/)
+
 20. [Frog-mania.github.io](/Gh-Pages/Frog-mania.github.io/)
 
 > [Branch: Development](/Gh-Pages/Frog-mania.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Frog-mania.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Frog-mania.github.io/)
 
 21. [Gaslight-Galactica.github.io](/Gh-Pages/Gaslight-Galactica.github.io/)
 
@@ -245,11 +292,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Gaslight-Galactica.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Gaslight-Galactica.github.io/)
+
 22. [GitHubby-development.github.io](/Gh-Pages/GitHubby-development.github.io/)
 
 > [Branch: Development](/Gh-Pages/GitHubby-development.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/GitHubby-development.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_GitHubby-development.github.io/)
 
 23. [GratyBot.github.io](/Gh-Pages/GratyBot.github.io/)
 
@@ -257,11 +308,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/GratyBot.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_GratyBot.github.io/)
+
 24. [Hospital-defender.github.io](/Gh-Pages/Hospital-defender.github.io/)
 
 > [Branch: Development](/Gh-Pages/Hospital-defender.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Hospital-defender.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Hospital-defender.github.io/)
 
 25. [iBlast-Game.github.io](/Gh-Pages/iBlast-Game.github.io/)
 
@@ -269,11 +324,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/iBlast-Game.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 26. [Its-time-to-cut-WideVine-DRM.github.io](/Gh-Pages/Its-time-to-cut-WideVine-DRM.github.io/)
 
 > [Branch: Development](/Gh-Pages/Its-time-to-cut-WideVine-DRM.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Its-time-to-cut-WideVine-DRM.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Its-time-to-cut-WideVine-DRM.github.io/)
 
 27. [MCPYE.github.io](/Gh-Pages/MCPYE.github.io/)
 
@@ -281,11 +340,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/MCPYE.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_MCPYE.github.io/)
+
 28. [Medical-ethics.github.io](/Gh-Pages/Medical-ethics.github.io/)
 
 > [Branch: Development](/Gh-Pages/Medical-ethics.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Medical-ethics.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Medical-ethics.github.io/)
 
 29. [NimbleBit-Games.github.io](/Gh-Pages/NimbleBit-Games.github.io/)
 
@@ -293,11 +356,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/NimbleBit-Games.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_NimbleBit-Games.github.io/)
+
 30. [NimbleBit-Glossary.github.io](/Gh-Pages/NimbleBit-Glossary.github.io/)
 
 > [Branch: Development](/Gh-Pages/NimbleBit-Glossary.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/NimbleBit-Glossary.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_NimbleBit-Glossary.github.io/)
 
 31. [Numeric-Liberation-Front.github.io](/Gh-Pages/Numeric-Liberation-Front.github.io/)
 
@@ -305,11 +372,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Numeric-Liberation-Front.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Numeric-Liberation-Front.github.io/)
+
 32. [NUNIX-dev.github.io](/Gh-Pages/NUNIX-dev.github.io/)
 
 > [Branch: Development](/Gh-Pages/NUNIX-dev.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/NUNIX-dev.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_NUNIX-dev.github.io/)
 
 33. [Perl-harbor.github.io](/Gh-Pages/Perl-harbor.github.io/)
 
@@ -317,17 +388,23 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Perl-harbor.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Perl-harbor.github.io/)
+
 34. [Portal-Voice-Assistant.github.io](/Gh-Pages/Portal-Voice-Assistant.github.io/)
 
 > [Branch: Development](/Gh-Pages/Portal-Voice-Assistant.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Portal-Voice-Assistant.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 35. [Project1k1.github.io](/Gh-Pages/Project1k1.github.io/)
 
 > [Branch: Development](/Gh-Pages/Project1k1.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Project1k1.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 36. [QMeadows-development.github.io](/Gh-Pages/QMeadows-development.github.io/)
 
@@ -357,11 +434,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: main](/Gh-Pages/QMeadows-development.github.io/Branches/main/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 37. [Reactop-computers.github.io](/Gh-Pages/Reactop-computers.github.io/)
 
 > [Branch: Development](/Gh-Pages/Reactop-computers.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Reactop-computers.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 38. [README-Desktop-LIBrary.github.io](/Gh-Pages/README-Desktop-LIBrary.github.io/)
 
@@ -369,11 +450,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/README-Desktop-LIBrary.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 39. [SafeT-dev.github.io](/Gh-Pages/SafeT-dev.github.io/)
 
 > [Branch: Development](/Gh-Pages/SafeT-dev.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/SafeT-dev.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 40. [ScreenTeX.github.io](/Gh-Pages/ScreenTeX.github.io/)
 
@@ -381,11 +466,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/ScreenTeX.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 41. [Seanpm2001-Biology.github.io](/Gh-Pages/Seanpm2001-Biology.github.io/)
 
 > [Branch: Development](/Gh-Pages/Seanpm2001-Biology.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Biology.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 42. [Seanpm2001-Blocklist.github.io](/Gh-Pages/Seanpm2001-Blocklist.github.io/)
 
@@ -393,11 +482,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Blocklist.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 43. [Seanpm2001-Bots.github.io](/Gh-Pages/Seanpm2001-Bots.github.io/)
 
 > [Branch: Development](/Gh-Pages/Seanpm2001-Bots.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Bots.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 44. [Seanpm2001-COVID-19.github.io](/Gh-Pages/Seanpm2001-COVID-19.github.io/)
 
@@ -405,11 +498,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-COVID-19.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 45. [Seanpm2001-Firefox.github.io](/Gh-Pages/Seanpm2001-Firefox.github.io/)
 
 > [Branch: Development](/Gh-Pages/Seanpm2001-Firefox.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Firefox.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 46. [Seanpm2001-Food-Index.github.io](/Gh-Pages/Seanpm2001-Food-Index.github.io/)
 
@@ -417,11 +514,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Food-Index.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 47. [Seanpm2001-education.github.io](/Gh-Pages/Seanpm2001-education.github.io/) - This was created after the original set was uploaded. It is an attempted recreation
 
 > [Branch: Development](/Gh-Pages/Seanpm2001-education.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-education.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 48. [seanpm2001.github.io](/Gh-Pages/seanpm2001.github.io/)
 
@@ -429,11 +530,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: main](/Gh-Pages/seanpm2001.github.io/Branches/main/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 49. [Seanpm2001-Health.github.io](/Gh-Pages/Seanpm2001-Health.github.io/)
 
 > [Branch: Development](/Gh-Pages/Seanpm2001-Health.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Health.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 50. [Seanpm2001-KhanAcademy.github.io](/Gh-Pages/Seanpm2001-KhanAcademy.github.io/)
 
@@ -441,11 +546,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-KhanAcademy.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 51. [Seanpm2001-KolibriGames.github.io](/Gh-Pages/Seanpm2001-KolibriGames.github.io/)
 
 > [Branch: Development](/Gh-Pages/Seanpm2001-KolibriGames.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-KolibriGames.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 52. [Seanpm2001-Robotics.github.io](/Gh-Pages/Seanpm2001-Robotics.github.io/)
 
@@ -453,11 +562,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Robotics.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 53. [Seanpm2001-Scratch.github.io](/Gh-Pages/Seanpm2001-Scratch.github.io/)
 
 > [Branch: Development](/Gh-Pages/Seanpm2001-Scratch.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Scratch.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 54. [Seanpm2001-Testing.github.io](/Gh-Pages/Seanpm2001-Testing.github.io/)
 
@@ -465,11 +578,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Testing.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 55. [seanwallawalla-bots.github.io](/Gh-Pages/seanwallawalla-bots.github.io/)
 
 > [Branch: Development](/Gh-Pages/seanwallawalla-bots.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/seanwallawalla-bots.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 56. [seanwallawalla.github.io](/Gh-Pages/seanwallawalla.github.io/)
 
@@ -477,11 +594,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/seanwallawalla.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 57. [Seanwallawalla-Health.github.io](/Gh-Pages/Seanwallawalla-Health.github.io/)
 
 > [Branch: Development](/Gh-Pages/Seanwallawalla-Health.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Seanwallawalla-Health.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 58. [seanwallawalla-testing.github.io](/Gh-Pages/seanwallawalla-testing.github.io/)
 
@@ -493,11 +614,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/seanwallawalla-testing.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 59. [Self-Care-Bot.github.io](/Gh-Pages/Self-Care-Bot.github.io/)
 
 > [Branch: Development](/Gh-Pages/Self-Care-Bot.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Self-Care-Bot.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 60. [SimZonns.github.io](/Gh-Pages/SimZonns.github.io/)
 
@@ -505,11 +630,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SimZonns.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 61. [Slaveworks.github.io](/Gh-Pages/Slaveworks.github.io/)
 
 > [Branch: Development](/Gh-Pages/Slaveworks.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Slaveworks.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 62. [Slick-license-manager.github.io](/Gh-Pages/Slick-license-manager.github.io/)
 
@@ -517,11 +646,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Slick-license-manager.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 63. [Snail-bob-maker.github.io](/Gh-Pages/Snail-bob-maker.github.io/)
 
 > [Branch: Development](/Gh-Pages/Snail-bob-maker.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Snail-bob-maker.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 64. [SNU-0D.github.io](/Gh-Pages/SNU-0D.github.io/)
 
@@ -529,11 +662,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SNU-0D.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 65. [SNU-Beliefs.github.io](/Gh-Pages/SNU-Beliefs.github.io/)
 
 > [Branch: Development](/Gh-Pages/SNU-Beliefs.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/SNU-Beliefs.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 66. [SNU-DennisRitchieMemorial.github.io](/Gh-Pages/SNU-DennisRitchieMemorial.github.io/)
 
@@ -541,11 +678,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SNU-DennisRitchieMemorial.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 67. [SNU-Erotica.github.io](/Gh-Pages/SNU-Erotica.github.io/)
 
 > [Branch: Development](/Gh-Pages/SNU-Erotica.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/SNU-Erotica.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 68. [SNU-Porn.github.io](/Gh-Pages/SNU-Porn.github.io/)
 
@@ -553,11 +694,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SNU-Porn.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 69. [SNU-Programming-Tools.github.io](/Gh-Pages/SNU-Programming-Tools.github.io/)
 
 > [Branch: Development](/Gh-Pages/SNU-Programming-Tools.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/SNU-Programming-Tools.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 70. [SNU-TimeMachine.github.io](/Gh-Pages/SNU-TimeMachine.github.io/)
 
@@ -565,11 +710,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SNU-TimeMachine.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 71. [SuperPower-laptops.github.io](/Gh-Pages/SuperPower-laptops.github.io/)
 
 > [Branch: Development](/Gh-Pages/SuperPower-laptops.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/SuperPower-laptops.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 72. [SVG-video.github.io](/Gh-Pages/SVG-video.github.io/)
 
@@ -577,11 +726,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SVG-video.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 73. [TalkScript.github.io](/Gh-Pages/TalkScript.github.io/)
 
 > [Branch: Development](/Gh-Pages/TalkScript.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/TalkScript.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 74. [Team8Collection.github.io](/Gh-Pages/Team8Collection.github.io/)
 
@@ -589,17 +742,23 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Team8Collection.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 75. [Tetris128.github.io](/Gh-Pages/Tetris128.github.io/)
 
 > [Branch: Development](/Gh-Pages/Tetris128.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Tetris128.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 76. [The-Pirates-Copy.github.io](/Gh-Pages/The-Pirates-Copy.github.io/)
 
 > [Branch: Development](/Gh-Pages/The-Pirates-Copy.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/The-Pirates-Copy.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 77. [TouchPetsDogs2Rewritten.github.io](/Gh-Pages/TouchPetsDogs2Rewritten.github.io/)
 
@@ -609,11 +768,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: seanpm2001-patch-1](/Gh-Pages/TouchPetsDogs2Rewritten.github.io/Branches/seanpm2001-patch-1/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 78. [TuxBot-operating-system.github.io](/Gh-Pages/TuxBot-operating-system.github.io/)
 
 > [Branch: Development](/Gh-Pages/TuxBot-operating-system.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/TuxBot-operating-system.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 79. [UltimateCalculator.github.io](/Gh-Pages/UltimateCalculator.github.io/)
 
@@ -621,11 +784,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/UltimateCalculator.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 80. [Underune-maker.github.io](/Gh-Pages/Underune-maker.github.io/)
 
 > [Branch: Development](/Gh-Pages/Underune-maker.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/Underune-maker.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 81. [uOffice.github.io](/Gh-Pages/uOffice.github.io/)
 
@@ -633,11 +800,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/uOffice.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 82. [URLL-Specification.github.io](/Gh-Pages/URLL-Specification.github.io/)
 
 > [Branch: Development](/Gh-Pages/URLL-Specification.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/URLL-Specification.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 83. [Virg-io-dev.github.io](/Gh-Pages/Virg-io-dev.github.io/)
 
@@ -645,11 +816,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Virg-io-dev.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 84. [WacOS-dev.github.io](/Gh-Pages/WacOS-dev.github.io/)
 
 > [Branch: Development](/Gh-Pages/WacOS-dev.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/WacOS-dev.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 85. [YKDefender.github.io](/Gh-Pages/YKDefender.github.io/)
 
@@ -657,11 +832,15 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/YKDefender.github.io/Branches/Site/)
 
+> > [:octocat: Separate repository (coming soon)](#anchor)
+
 86. [ZooTree.github.io](/Gh-Pages/ZooTree.github.io/)
 
 > [Branch: Development](/Gh-Pages/ZooTree.github.io/Branches/Development/)
 
 > [Branch: Site](/Gh-Pages/ZooTree.github.io/Branches/Site/)
+
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 </details>
 
@@ -1145,136 +1324,206 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 ## About README
 
-**File type:** `Markdown Document (*.md *.mkd *.mdown *.markdown)`
+***
 
-**File version:** `1 (2022, Wednesday, August 17th at 4:50 pm PST)`
+<!-- /%/2001_FILE_INFO_SECTION.BEGIN\%\ !-->
 
-**Line count (including blank lines and compiler line):** `1,281`
+# File info
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse this section</b></p></summary> <!-- This section should be updated daily !-->
+
+<table>
+  <tr>
+    <td>
+
+- **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+- **File version:** `2 (2025, Thursday, March 27th at 04:27 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,530` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `10,207` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `074,165` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `068,150` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `074,568` <!-- TODO: This line should be updated daily !-->
+- **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+- **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+- **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+    </td>
+  </tr>
+</table>
+
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details> <!-- End of file info section !-->
+
+<!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
 
 ***
 
-## README version history
+<!-- /%/2001_FILE_HISTORY_SECTION.BEGIN\%\ !-->
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+# File history
 
-> Changes:
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
-> * Started the file
+History of this file.
 
-> * Added the title section
+---
 
-> * Added the index
+## Version 0.1 (2021, Sunday, March 21st at 07:50 pm PST)
 
-> * Added the about section
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 0.1</b></p></summary>
 
-> * Added the Wiki section
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-**ITERATION 5**
-
-> * Updated the title section
-
-> * Updated the index
-
-> * Added the history section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-**ITERATION 6**
-
-> * Updated the title section
-
-> * Fixed and update template links
-
-> * Updated the index
-
-> * Added the copying section
-
-> * Added the credits section
-
-> * Added the installation section
-
-> * Updated the resources section
-
-> * Updated the contributors section
-
-> * Added the technical notes section
-
-> * Updated the footer
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 0.1
-
-Version 1 (2022, Wednesday, August 17th at 4:50 pm PST)
+> **Note** _This is the first release of this README file_
 
 > Changes:
 
-> * Updated the `title` section
+- [x] Started the file
+- [x] Added the title section
+- [x] Added the index
+- [x] Added the about section
+- [x] Added the Wiki section
+- [x] Added the version history section
+- [x] Added the issues section.
+- [x] Added the past issues section
+- [x] Added the past pull requests section
+- [x] Added the active pull requests section
+- [x] Added the contributors section
+- [x] Added the contributing section
+- [x] Added the about README section
+- [x] Added the README version history section
+- [x] Added the resources section
+- [x] Added a software status section, with a DRM free sticker and message
+- [x] Added the sponsor info section
 
-> * Updated the `index` section
+> **ITERATION 5**
 
-> * Updated the `description` section
+- [x] Updated the title section
+- [x] Updated the index
+- [x] Added the history section
+- [x] Updated the file info section
+- [x] Updated the file history section
 
-> * Updated the `about` section
+> **ITERATION 6**
 
-> > * Added the `list of pages` section
+- [x] Updated the title section
+- [x] Fixed and update template links
+- [x] Updated the index
+- [x] Added the copying section
+- [x] Added the credits section
+- [x] Added the installation section
+- [x] Updated the resources section
+- [x] Updated the contributors section
+- [x] Added the technical notes section
+- [x] Updated the footer
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 0.1
 
-> > * Added the `Listing with dead links` section
+</details> <!-- End of file history: V0.1 !-->
 
-> * Updated the `History` section
+---
 
-> * Updated the `Contributors` section
+## Version 1 (2022, Wednesday, August 17th at 04:50 pm PST)
 
-> * Updated the `resources` section
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 1</b></p></summary>
 
-> * Updated the `file info` section
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
-> * Updated the `file history` section
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
+> **Note** _This is the second release of this README file_
 
 > Changes:
 
-> * Coming soon
+- [x] Updated the `title` section
+- [x] Updated the `index` section
+- [x] Updated the `description` section
+- [x] Updated the `about` section
+- - [x] Added the `list of pages` section
+- - [x] Added the `Listing with dead links` section
+- [x] Updated the `History` section
+- [x] Updated the `Contributors` section
+- [x] Updated the `resources` section
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 1
 
-> * No other changes in version 2
+</details> <!-- End of file history: V1 !-->
+
+---
+
+## Version 2 (2025, Thursday, March 27th at 04:27 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 2</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the second release of this README file_
+
+> Changes:
+
+- [x] Added 32 links to some of the new archive repositories
+- [x] Added a resources microsection to the List of Pages section
+- [x] Overhaul of the file info section, making it compliant with the Seanpm2001 File Info section specification
+- [x] Overhaul of the file history section, making it compliant with the Seanpm2001 File Info section specification
+- [x] Overhaul of the footer section, making it compliant with the Seanpm2001 File Info section specification
+- [x] Made the entire page collapse-able
+- [x] Updated the Index section
+- [ ] No other changes in version 2
+
+</details> <!-- End of file history: V2 !-->
+
+---
+
+_End of file history section._
+
+</details> <!-- End of file history section !-->
+
+<!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
 ***
 
-### You have reached the end of the README file
+<!-- /%/2001_FOOTER_SECTION.BEGIN\%\ !-->
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
+# [Footer 🦶️](#Footer-)
 
-### EOF
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the footer</b></p></summary>
+
+**You have reached the end of this file.**
+
+<table>
+  <tr>
+    <td>
+
+- [`Back to top`](#Top)
+- [:octocat: `Exit to GitHub`](https://github.com/)
+- [`Exit to Bing`](https://bing.com/)
+- [`Exit to DuckDuckGo`](https://duckduckgo.com/)
+- [`Exit to Ecosia`](https://ecosia.org/)
+- [`Exit to Swisscows`](https://swisscows.com/)
+
+    </td>
+  </tr>
+</table>
+
+###### [EOF](#EOF)
+
+<!-- EOF:
+End
+Of
+File
+!-->
+
+</details> <!-- End of footer !-->
+
+_End of footer._
+
+<!-- /%/2001_FOOTER_SECTION.END\%\ !-->
+
+---
+
+_End of article._
+
+</details> <!-- End of article !-->
 
 ***
