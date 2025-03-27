@@ -2,17 +2,17 @@
 //// Seanpm2001-GitHub-Pages-Collection_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all GitHub Pages project repositories by @seanpm2001
-//// As of 2025, Wednesday, March 26th
+//// As of 2025, Thursday, March 27th
 
 //// ----------------------------------------------------- \\\\
-//// GitHub Pages Collection Project (25)
+//// GitHub Pages Collection Project (33)
 //// ----------------------------------------------------- \\\\
 
 //// Seanpm2001 GitHub Pages Collection Core (1)
 
 https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection
 
-//// GitHub Pages archive repositories (24)
+//// GitHub Pages archive repositories (32)
 
 https://github.com/seanpm2001/ARCHIVE_404-Day.github.io
 https://github.com/seanpm2001/ARCHIVE_9x-Internet.github.io
@@ -38,10 +38,18 @@ https://github.com/seanpm2001/ARCHIVE_Gaslight-Galactica.github.io
 https://github.com/seanpm2001/ARCHIVE_GitHubby-development.github.io
 https://github.com/seanpm2001/ARCHIVE_GratyBot.github.io
 https://github.com/seanpm2001/ARCHIVE_Hospital-defender.github.io
+https://github.com/seanpm2001/ARCHIVE_Its-time-to-cut-WideVine-DRM.github.io
+https://github.com/seanpm2001/ARCHIVE_MCPYE.github.io
+https://github.com/seanpm2001/ARCHIVE_Medical-ethics.github.io
+https://github.com/seanpm2001/ARCHIVE_NUNIX-dev.github.io
+https://github.com/seanpm2001/ARCHIVE_NimbleBit-Games.github.io
+https://github.com/seanpm2001/ARCHIVE_NimbleBit-Glossary.github.io
+https://github.com/seanpm2001/ARCHIVE_Numeric-Liberation-Front.github.io
+https://github.com/seanpm2001/ARCHIVE_Perl-harbor.github.io
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 GitHub Pages Collection): 25
-//// 1+24=25
+//// Repo count (Seanpm2001 GitHub Pages Collection): 33
+//// 1+32=33
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -53,15 +61,15 @@ https://github.com/seanpm2001/ARCHIVE_Hospital-defender.github.io
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 25
-//// 25+0=25
+//// Total repo count: 32
+//// 32+0=32
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 3 (2025, Wednesday, March 26th at 03:58 pm PST)
-//// Line count (including blank lines and compiler line): 68
+//// File version: 4 (2025, Thursday, March 27th at 04:28 pm PST)
+//// Line count (including blank lines and compiler line): 76
 //// ----------------------------------------------------- \\\\
 
 //// End of file
