@@ -2,17 +2,17 @@
 //// Seanpm2001-GitHub-Pages-Collection_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all GitHub Pages project repositories by @seanpm2001
-//// As of 2025, Thursday, March 27th
+//// As of 2025, Friday, March 28th
 
 //// ----------------------------------------------------- \\\\
-//// GitHub Pages Collection Project (33)
+//// GitHub Pages Collection Project (41)
 //// ----------------------------------------------------- \\\\
 
 //// Seanpm2001 GitHub Pages Collection Core (1)
 
 https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection
 
-//// GitHub Pages archive repositories (32)
+//// GitHub Pages archive repositories (40)
 
 https://github.com/seanpm2001/ARCHIVE_404-Day.github.io
 https://github.com/seanpm2001/ARCHIVE_9x-Internet.github.io
@@ -46,10 +46,18 @@ https://github.com/seanpm2001/ARCHIVE_NimbleBit-Games.github.io
 https://github.com/seanpm2001/ARCHIVE_NimbleBit-Glossary.github.io
 https://github.com/seanpm2001/ARCHIVE_Numeric-Liberation-Front.github.io
 https://github.com/seanpm2001/ARCHIVE_Perl-harbor.github.io
+https://github.com/seanpm2001/ARCHIVE_Portal-Voice-Assistant.github.io
+https://github.com/seanpm2001/ARCHIVE_Project1k1.github.io
+https://github.com/seanpm2001/ARCHIVE_QMeadows-development.github.io
+https://github.com/seanpm2001/ARCHIVE_README-Desktop-LIBrary.github.io
+https://github.com/seanpm2001/ARCHIVE_Reactop-computers.github.io
+https://github.com/seanpm2001/ARCHIVE_SNU-0D.github.io
+https://github.com/seanpm2001/ARCHIVE_SNU-Beliefs.github.io
+https://github.com/seanpm2001/ARCHIVE_SNU-DennisRitchieMemorial.github.io
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 GitHub Pages Collection): 33
-//// 1+32=33
+//// Repo count (Seanpm2001 GitHub Pages Collection): 41
+//// 1+40=41
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -61,15 +69,15 @@ https://github.com/seanpm2001/ARCHIVE_Perl-harbor.github.io
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 32
-//// 32+0=32
+//// Total repo count: 41
+//// 41+0=41
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 4 (2025, Thursday, March 27th at 04:28 pm PST)
-//// Line count (including blank lines and compiler line): 76
+//// File version: 5 (2025, Friday, March 28th at 04:18 pm PST)
+//// Line count (including blank lines and compiler line): 84
 //// ----------------------------------------------------- \\\\
 
 //// End of file
