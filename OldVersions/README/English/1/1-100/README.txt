@@ -396,7 +396,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Portal-Voice-Assistant.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Portal-Voice-Assistant.github.io/)
 
 35. [Project1k1.github.io](/Gh-Pages/Project1k1.github.io/)
 
@@ -404,7 +404,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Project1k1.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Project1k1.github.io/)
 
 36. [QMeadows-development.github.io](/Gh-Pages/QMeadows-development.github.io/)
 
@@ -434,7 +434,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: main](/Gh-Pages/QMeadows-development.github.io/Branches/main/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_QMeadows-development.github.io/)
 
 37. [Reactop-computers.github.io](/Gh-Pages/Reactop-computers.github.io/)
 
@@ -442,7 +442,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Reactop-computers.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Reactop-computers.github.io/)
 
 38. [README-Desktop-LIBrary.github.io](/Gh-Pages/README-Desktop-LIBrary.github.io/)
 
@@ -450,7 +450,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/README-Desktop-LIBrary.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_README-Desktop-LIBrary.github.io/)
 
 39. [SafeT-dev.github.io](/Gh-Pages/SafeT-dev.github.io/)
 
@@ -662,7 +662,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SNU-0D.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_SNU-0D.github.io/)
 
 65. [SNU-Beliefs.github.io](/Gh-Pages/SNU-Beliefs.github.io/)
 
@@ -670,7 +670,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SNU-Beliefs.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_SNU-Beliefs.github.io/)
 
 66. [SNU-DennisRitchieMemorial.github.io](/Gh-Pages/SNU-DennisRitchieMemorial.github.io/)
 
@@ -678,7 +678,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SNU-DennisRitchieMemorial.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_SNU-DennisRitchieMemorial.github.io/)
 
 67. [SNU-Erotica.github.io](/Gh-Pages/SNU-Erotica.github.io/)
 
@@ -1337,12 +1337,12 @@ Contributing is allowed for this project, as long as you follow the rules of the
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `2 (2025, Thursday, March 27th at 04:27 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,530` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `10,207` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `074,165` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `068,150` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `074,568` <!-- TODO: This line should be updated daily !-->
+- **File version:** `3 (2025, Friday, March 28th at 04:17 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,551` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `10,364` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `075,193` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `069,078` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `075,596` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1472,6 +1472,27 @@ History of this file.
 - [ ] No other changes in version 2
 
 </details> <!-- End of file history: V2 !-->
+
+---
+
+## Version 3 (2025, Friday, March 28th at 04:17 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 3</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the third release of this README file. It is a basic maintenance update._
+
+> Changes:
+
+- [x] Added 8 links to some of the new archive repositories
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 3
+- [x] Updated the Index section
+- [ ] No other changes in version 3
+
+</details> <!-- End of file history: V3 !-->
 
 ---
 
