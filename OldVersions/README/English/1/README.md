@@ -5,113 +5,286 @@
 
 # Seanpm2001 GitHub Pages Collection
 
-![GitHubPagesIcon.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/GitHubPagesIcon.png)
+###### Top
+
+<img src="/GitHubPagesIcon.png" alt="GitHubPagesIcon.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error." title="GitHub Pages logo" width="885" height="885">
 
 # By:
 
 <!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
 
-## [`@Seanpm2001`](https://github.com/seanpm2001/), [`@Ghost[x1000]`](https://github.com/ghost/) Et; Al.
-
-
-### Top
-
-# `README.md`
+## [:octocat: `@Seanpm2001`](https://github.com/seanpm2001/), [:octocat: `@Ghost[x1000]`](https://github.com/ghost/) Et; Al.
 
 ***
 
-## Read this article in a different language
+## Change language
 
-**Sorted by:** `A-Z`
+<!-- /%/2001_TRANSLATE_SECTION.BEGIN\%\ !-->
+<!-- Start of translation segment !-->
 
-[Sorting options unavailable](https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection)
+<details open><summary>[`Click`/tap here to expand/collapse the language switcher list`](#Dropdown-executed-with-code-FF256x777-no-further-action-is-required)</H3></summary>
 
-( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
+_🌐 List of languages_
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+<!-- TODO DEVNOTE: The following section should NOT be translated !-->
 
-Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't the intended page. You will be redirected to the [.github folder](/.github/) of this project, where the README translations are hosted.
+( [af Afrikaans](/.github/README_AF.md) Afrikaans 🇿🇦️ | [sq Shqiptare](/.github/README_SQ.md) Albanian 🇦🇱️ | [am አማርኛ](/.github/README_AM.md) Amharic 🇪🇹️ | [ar عربى](/.github/README_AR.md) Arabic 🇸🇦️🇦🇪️🇺🇳️ | [hy հայերեն](/.github/README_HY.md) Armenian 🇦🇲️ | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani 🇦🇿️ | [eu Euskara](/.github/README_EU.md) Basque 🇪🇸️🇫🇷️ | [be Беларуская](/.github/README_BE.md) Belarusian 🇧🇾️ | [bn বাংলা](/.github/README_BN.md) Bengali 🇧🇩️🇮🇳️ | [bs Bosanski](/.github/README_BS.md) Bosnian 🇧🇦️ | [bg български](/.github/README_BG.md) Bulgarian 🇧🇬️🇪🇺️ | [ca Català](/.github/README_CA.md) Catalan 🇪🇸️🇦🇩️🇫🇷️🇮🇹️ | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano 🇵🇭️ | [ny Chichewa](/.github/README_NY.md) Chichewa 🇲🇼️🇿🇲️🇲🇿️🇿🇼️ | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) 🇨🇳️🇭🇰️🇲🇴️🇹🇼️🇺🇳️ | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) 🇨🇳️🇭🇰️🇲🇴️🇹🇼️🇺🇳️ | [co Corsu](/.github/README_CO.md) Corsican 🇫🇷️🇮🇹️ | [hr Hrvatski](/.github/README_HR.md) Croatian 🇭🇷️🇪🇺️ | [cs čeština](/.github/README_CS.md) Czech 🇨🇿️🇪🇺️ | [da dansk](README_DA.md) Danish 🇩🇰️🇪🇺️ | [nl Nederlands](/.github/README_NL.md) Dutch 🇳🇱️🇪🇺️ | [**en-us English**](/.github/README.md) English 🇺🇸️🇬🇧️🇺🇳️🇪🇺️ | [EO Esperanto](/.github/README_EO.md) Esperanto 🌐️ | [et Eestlane](/.github/README_ET.md) Estonian 🇪🇪️🇪🇺️ | [tl Pilipino](/.github/README_TL.md) Filipino 🇵🇭️ | [fi Suomalainen](/.github/README_FI.md) Finnish 🇫🇮️🇪🇺️ | [fr français](/.github/README_FR.md) French 🇫🇷️🇺🇳️🇪🇺️ | [fy Frysk](/.github/README_FY.md) Frisian 🇳🇱️🇩🇪️ | [gl Galego](/.github/README_GL.md) Galician 🇪🇸️ | [ka ქართველი](/.github/README_KA) Georgian 🇬🇪️ | [de Deutsch](/.github/README_DE.md) German 🇩🇪️🇪🇺️ | [el Ελληνικά](/.github/README_EL.md) Greek 🇬🇷️🇪🇺️ | [gu ગુજરાતી](/.github/README_GU.md) Gujarati 🇮🇳️ | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole 🇭🇹️ | [ha Hausa](/.github/README_HA.md) Hausa 🇳🇬️🇳🇪️🇨🇲️🇧🇯️🇹🇩️ | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian 🇺🇸️ | [he עִברִית](/.github/README_HE.md) Hebrew 🇮🇱️ | [hi हिन्दी](/.github/README_HI.md) Hindi 🇮🇳️ | [hmn Hmong](/.github/README_HMN.md) Hmong 🇨🇳️🇭🇰️🇲🇴️🇹🇼️🇻🇳️🇱🇦️🇲🇲️🇹🇭️ | [hu Magyar](/.github/README_HU.md) Hungarian 🇭🇺️🇪🇺️ | [is Íslenska](/.github/README_IS.md) Icelandic 🇮🇸️ | [ig Igbo](/.github/README_IG.md) Igbo 🇳🇬️ | [id bahasa Indonesia](/.github/README_ID.md) Indonesian 🇮🇩️ | [ga Gaeilge](/.github/README_GA.md) Irish 🇮🇪️🇪🇺️ | [it Italiana/Italiano](/.github/README_IT.md) Italian 🇮🇹️🇪🇺️ | [ja 日本語](/.github/README_JA.md) Japanese 🇯🇵️ | [jw Wong jawa](/.github/README_JW.md) Javanese 🇮🇩️ | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada 🇮🇳️ | [kk Қазақ](/.github/README_KK.md) Kazakh 🇰🇿️ | [km ខ្មែរ](/.github/README_KM.md) Khmer 🇰🇭️🇹🇭️🇻🇳️ | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda 🇷🇼️🇺🇬️🇨🇩️🇹🇿️| [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) 🇰🇷️ | [ko-north 문화어](README_KO_NORTH.md) Korean (North) 🇰🇵️ (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) 🇹🇷️🇮🇷️🇮🇶️🇸🇾️🇦🇲️🇦🇿️ | [ky Кыргызча](/.github/README_KY.md) Kyrgyz 🇰🇬️ | [lo ລາວ](/.github/README_LO.md) Lao 🇱🇦️🇰🇭️🇹🇭️ | [la Latine](/.github/README_LA.md) Latin 🇮🇹️🇻🇦️ | [lt Lietuvis](/.github/README_LT.md) Lithuanian 🇱🇹️🇪🇺️ | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish 🇱🇺️🇩🇪️🇧🇪️🇫🇷️ | [mk Македонски](/.github/README_MK.md) Macedonian 🇲🇰️🇦🇱️🇧🇬️🇬🇷️🇷🇴️🇷🇸️ | [mg Malagasy](/.github/README_MG.md) Malagasy 🇲🇬️🇫🇷️ | [ms Bahasa Melayu](/.github/README_MS.md) Malay 🇧🇳️🇹🇱️🇮🇩️🇲🇾️🇸🇬️🇦🇺️🇹🇭️ | [ml മലയാളം](/.github/README_ML.md) Malayalam 🇮🇳️ | [mt Malti](/.github/README_MT.md) Maltese 🇲🇹️🇪🇺️ | [mi Maori](/.github/README_MI.md) Maori 🇳🇿️ | [mr मराठी](/.github/README_MR.md) Marathi 🇮🇳️ | [mn Монгол](/.github/README_MN.md) Mongolian 🇲🇳️ | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) 🇲🇲️ | [ne नेपाली](/.github/README_NE.md) Nepali 🇳🇵️ | [no norsk](/.github/README_NO.md) Norwegian 🇳🇴️ | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) 🇮🇳️ | [ps پښتو](/.github/README_PS.md) Pashto 🇦🇫️🇵🇰️ | [fa فارسی](/.github/README_FA.md) | Persian 🇮🇷️ | [pl polski](/.github/README_PL.md) Polish 🇵🇱️🇪🇺️ | [pt português](/.github/README_PT.md) Portuguese 🇵🇹️🇧🇷️🇪🇺️ | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi 🇮🇳️ | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian 🇷🇴️🇪🇺️ | [ru русский](/.github/README_RU.md) Russian 🇷🇺️🇺🇳️ | [sm Faasamoa](/.github/README_SM.md) Samoan 🇼🇸️ | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic 🇬🇧️🇨🇦️🏴󠁧󠁢󠁳󠁣󠁴󠁿️ | [sr Српски](/.github/README_SR.md) Serbian 🇷🇸️ | [st Sesotho](/.github/README_ST.md) Sesotho 🇱🇸️🇿🇦️🇿🇼️ | [sn Shona](/.github/README_SN.md) Shona 🇿🇼️🇲🇿️ | [sd سنڌي](/.github/README_SD.md) Sindhi 🇵🇰️🇮🇳️ | [si සිංහල](/.github/README_SI.md) Sinhala 🇱🇰️ | [sk Slovák](/.github/README_SK.md) Slovak 🇸🇮️🇪🇺️ | [sl Slovenščina](/.github/README_SL.md) Slovenian 🇸🇮️🇮🇹️🇦🇹️🇪🇺️ | [so Soomaali](/.github/README_SO.md) Somali 🇸🇴️ | [[es en español](/.github/README_ES.md) Spanish 🇪🇸️🇲🇽️🇺🇳️🇪🇺️ | [su Sundanis](/.github/README_SU.md) Sundanese 🇮🇩️ | [sw Kiswahili](/.github/README_SW.md) Swahili 🇹🇿️🇰🇪️🇰🇲️🇫🇷️🇺🇬️🇷🇼️🇧🇮️🇨🇩️🇸🇴️🇿🇲️🇲🇼️🇲🇬️ | [sv Svenska](/.github/README_SV.md) Swedish 🇸🇪️🇪🇺️ | [tg Тоҷикӣ](/.github/README_TG.md) Tajik 🇹🇯️🇦🇫️🇺🇿️ | [ta தமிழ்](/.github/README_TA.md) Tamil 🇮🇳️🇱🇰️ | [tt Татар](/.github/README_TT.md) Tatar 🇷🇺️ | [te తెలుగు](/.github/README_TE.md) Telugu 🇮🇳️ | [th ไทย](/.github/README_TH.md) Thai 🇹🇭️🇰🇭️ | [tr Türk](/.github/README_TR.md) Turkish 🇹🇷️ | [tk Türkmenler](/.github/README_TK.md) Turkmen 🇹🇲️ | [uk Український](/.github/README_UK.md) 🇺🇦️ Ukrainian | [ur اردو](/.github/README_UR.md) Urdu 🇵🇰️🇮🇳️ | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur 🇨🇳️🇭🇰️🇲🇴️🇹🇼️ | [uz O'zbek](/.github/README_UZ.md) Uzbek 🇺🇿️🇦🇫️🇰🇿️🇰🇬️🇹🇲️🇷🇺️🇨🇳️🇭🇰️🇲🇴️🇹🇼️ | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese 🇻🇳️ | [cy Cymraeg](/.github/README_CY.md) Welsh 🇬🇧️🏴󠁧󠁢󠁷󠁬󠁳󠁿️🇦🇷️ | [xh isiXhosa](/.github/README_XH.md) Xhosa 🇿🇦️ | [yi יידיש](/.github/README_YI.md) Yiddish 🇮🇱️🇩🇪️ | [yo Yoruba](/.github/README_YO.md) Yoruba 🇧🇯️🇳🇬️🇹🇬️ | [zu Zulu](/.github/README_ZU.md) Zulu 🇿🇦️ ) <!-- TODO DEVNOTE: Everything above this and below the previous comment should NOT be translated !--> Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
 
-Translations are currently done with Bing translate and DeepL. Support for Google Translate translations is coming to a close due to privacy concerns.
+</details>
+
+---
+
+Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/seanpm2001/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org/) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+
+Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't my GitHub profile page. You will be redirected to the [seanpm2001/seanpm2001 repository](https://github.com/seanpm2001/seanpm2001), where the README is hosted.
+
+Translations are done with Google Translate due to limited or no support for the languages I need in other translation services like DeepL and Bing Translate. For some reason, the formatting (links, dividers, bolding, italics, etc.) is messed up in various translations. It is tedious to fix, and I do not know how to fix these issues in languages with non-latin characters, and right to left languages (like Arabic) extra help is needed in fixing these issues
+
+Due to maintenance issues, over 25 translations are out of date and are using Version 8 or Version 9 of this README file. A translator is needed. Also, as of April 1st 2021, it is going to take me a while to get all the new links working.
+
+## New translation methods
+
+### Machine Translation
+
+- DeepL
+- Bing Translate
+- Google Translate (not recommended)
+
+### Automation
+
+- AUTOMATE2001
+
+### Other translation
+
+- Browser-based translation
+
+***
+
+<details><summary><p lang="en">Click/tap here to expand/collapse the flag guide section</p></summary>
+
+🎌️ **Flag guide** 🎌️
+
+🚩️🏴️🏳️ Flags were beginning to get added in version 2 of this document. I was originally just going to add the Ukraine 🇺🇦️ flag, but decided to add more, until every language had at least 1 flag. They were done purely with the existing knowledge of the developer. In version 3, flags were added for every language. There are some notes that go with this:
+
+🌐️ **[Unions `🇪🇺️` and Nations `🇺🇳️`]** 🌐️
+
+Languages listed here that are official languages of the European Union have a European Union flag `🇪🇺️` next to them. As of 2022 March 14th, there are currently 27 languages recognized by the European Union, from 27 different member states.
+
+Languages listed here that are official languages of the United Nations have a United Nations flag `🇺🇳️` next to them. As of 2022 March 14th, there are currently 6 languages recognized by the European Union (Arabic, Chinese, English, French, Russian, and Spanish) alongside 193 different member states and 2 observer states.
+
+🌏️ **[One China (PRC) `🇨🇳️` Two China (Taiwan) `🇹🇼️` Hong Kong `🇭🇰️` and Macau `🇲🇴️`]** 🌏️
+
+For neutrality reasons, languages listed here that have an official majority in Chinese speakers will receive all 4 of these flags, even if the language isn't Chinese or in the Sino family of languages.
+
+🌐️ **[Global languages `🌐️`]** 🌐️
+
+Currently, 1 global language is listed, and that is Esperanto. Esperanto is not native to any countries, its goal is to be a universal _lingua franca_ (Latin translation: _bridge language_) it is represented with a `globe with meridians` or `🌐️`
+
+💞️ **[Regarding sexuality 🏳️‍🌈️]** 💞️
+
+Sexuality is not measured here, I feel it would be unnecessary, as you are picking out a language, not a sexuality.
+
+💠️ **[Location of flag 🚩️]** 💠️
+
+Flags are located at the end of each language name (after the Romanization) with one space before, to the right.
+
+Like this:
+
+**[Pl Polski Polish 🇵🇱️]**
+
+But not like this:
+
+**[Pl Polski 🇵🇱️ Polish]**
+
+And also not like this:
+
+**[Pl 🇵🇱️ Polski Polish]**
+
+🏁️ **End of flag guide** 🏁️
+
+</details> <!-- End of language legend section !-->
+
+***
+
+<details><summary><p lang="en">Click/tap here to expand/collapse the developer notes section</p></summary>
+
+**2022.03.12**
+
+I was so angry and frustrated. I didn't save the file, and my computer randomly froze up twice, then crashed. I had to re-add all the flags, it took an hour to do so originally, and I was just seconds away from finishing. I couldn't save the file quick enough. Luckily, all the research was still in my head, and there was no data that wasn't easily replacable (identically) so it is a type of important work that was the best thing to lose, since it was the easiest to recreate, taking me less than 20 minutes
+
+**Other notes:**
+
+- ⚠️ A language is missing: `Latvian`
+- ℹ️ Possibly supporting the next 126 languages that are going to be added to Google Translate
+- 🗜️ Plans to automate this process with the [`@AUTOMATE2001`](https://github.com/AUTOMATE-2001) bot
+- ⛔️ Need to find a way to work with these languages on services other than Google Translate.
+- ⚠️ There might be noticeable lag in this section due to how many flag emojis are in use.
+
+**Languages segment version:** `4 (2022, Monday, March 14th at 1:59 pm)`
+
+</details> <!-- End of language legend developer notes section !-->
+
+***
+
+</details> <!-- End of language switch section !-->
+
+_End of translation section._
+
+<!-- End of translation segment !-->
+<!-- /%/2001_TRANSLATE_SECTION.END\%\ !-->
 
 ***
 
 # Index
 
-[00.0 - Top](#Top)
+- [00.0 - Top](#Top)
+- - [00.1 - Title](#Seanpm2001-GitHub-Pages-Collection)
+- - [00.2 - Change language](#Change-language)
+- - [00.3 - Index](#Index)
+- [01.0 - This repository](#This-repository)
+- [02.0 - Description](#Seanpm2001-GitHub-Pages-Collection)
+- [03.0 - About](#About)
+- - [03.1 - List of pages](#List-of-pages)
+- - [03.2 - Listing with dead links](#Listing-with-dead-links)
+- [04.0 - Wiki](#Wiki)
+- [05.0 - History](#History)
+- - [05.1 - Pre-history](#Pre-history)
+- - [05.2 - Alpha History](#Alpha-history)
+- - [05.3 - Beta History](#Beta-history)
+- - [05.4 - Modern History](#Modern-history)
+- [06.0 - Copying](#Copying)
+- [07.0 - Credits](#Credits)
+- [08.0 - Installation](#Installation)
+- [09.0 - Version history](#Version-history)
+- [10.0 - Version history](#Version-history)
+- [11.0 - Software status](#Software-status)
+- [12.0 - Sponsor info](#Sponsor-info)
+- [13.0 - Contributers](#Contributers)
+- [14.0 - Issues](#Issues)
+- - [14.1 - Current issues](#Current-issues)
+- - [14.2 - Past issues](#Past-issues)
+- - [14.3 - Past pull requests](#Past-pull-requests)
+- - [14.4 - Active pull requests](#Active-pull-requests)
+- [15.0 - Resources](#Resources)
+- [16.0 - Contributing](#Contributing)
+- [17.0 - File Info](#File-info)
+- [18.0 - File history](#File-history)
+- [19.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+- - [19.9 - End of file](#EOF)
 
-> [00.1 - Title](#Seanpm2001-GitHub-Pages-Collection)
+***
 
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+<!-- /%/2001_THIS_REPOSITORY_SECTION.BEGIN\%\ !-->
 
-> [00.3 - Index](#Index)
+## This repository
 
-[01.0 - Description](#Seanpm2001-GitHub-Pages-Collection)
+[`View all files`](/ROOTFILES.base)
 
-[02.0 - About](#About)
+| 📁️ Type 📄️ | 🔍️ Location 🔎️ | ℹ️ Purpose ℹ️ |
+|---|---|---|
+| 📁️ Folder/directory | [`/.github/`](/.github/) | GitHub repository configuration data |
+| 📁️ Folder/directory | [`/.gitlab/`](/.gitlab/) | GitLab repository configuration data |
+| 📁️ Folder/directory | [`/Docs/`](/Docs/) | For Android x32 documentation (redirect) |
+| 📁️ Folder/directory | [`/Gh-Pages/`](/Gh-Pages/) | For the archives of all GitHub Pages site by @seanpm2001 |
+| 📁️ Folder/directory | [`/OldVersions/`](/OldVersions/) | For archived old versions of files in this repository |
+| 📁️ Folder/directory | [`/RepoData/`](/RepoData/) | For general repository data (metadata, description) |
+| ⚙️ Configuration file | [`/.editorconfig`](/.editorconfig) | Editor Config file |
+| ⚙️ Configuration file | [`/.gitattributes`](/.gitattributes) | Git Attributes file |
+| ⚙️ Configuration file | [`/.gitignore`](/.gitignore) | Git Ignore file |
+| 🌐️ Webpage file | [`/404.html`](/404.html) | 404 page |
+| 🖼️ Image file | [`/404.jpeg`](/404.jpeg) | Image within 404 page |
+| ⬇️ Markdown file | [`/404.md`](/404.md) | 404 Jekyll page |
+| 👤️ Authors file | [`/AUTHORS`](/AUTHORS) | For displaying the authors of the project (plain text) |
+| 👤️ Authors file | [`/AUTHORS.md`](/AUTHORS.md) | For displaying the authors of the project (Markdown) |
+| 🤖️ Automation configuration file | [`/AUTOMATE2001.yaml`](/AUTOMATE2001.yaml) | For configuring the AUTOMATE2001 software tool to automate tasks on this repository. |
+| 🤖️ Automation configuration file | [`/AUTOMATE2001.yml`](/AUTOMATE2001.yml) | For configuring the AUTOMATE2001 software tool to automate tasks on this repository (copy) |
+| 📋️ Repository list file | [`/Seanpm2001-GitHub-Pages-Collection_REPOLIST.urll`](/Seanpm2001-GitHub-Pages-Collection_REPOLIST.urll) | For displaying a list of all repositories in this project group. |
+| 🖼️ Image file | [`/GitHubPagesIcon.png`](/GitHubPagesIcon.png) | The logo for GitHub Pages |
+| ✒️ Citation file | [`/CITATION.cff`](/CITATION.cff) | For enabling others to site this repository. |
+| 👥️ Contributions file | [`/CONTRIBUTING.md`](/CONTRIBUTING.md) | For listing instructions on what can/cannot be contributed to this project. |
+| 💳️ License file | [`/COPYINGL`](/COPYINGL) | A license hub that explains license usage for this project. |
+| 👤️ Credits file | [`/Credits`](/Credits) | For displaying the credits for the project (plain text) |
+| 👤️ Credits file | [`/Credits.wiki`](/Credits.wiki) | For displaying the credits for the project (WikiText) |
+| 🖼️ Image file | [`/DRM-free_label.en.svg`](/DRM-free_label.en.svg) | An image file that emphasizes this projects Anti-DRM stance. |
+| 1️⃣️ Initial file | [`/INITIAL_COMMIT.txt`](/INITIAL_COMMIT.txt) | A file that was generated alongside the repository, and represents the first commit |
+| 🔺️ Installation file | [`/INSTALL`](/INSTALL) | A file that gives instructions on how to install this project (plain text) |
+| 🔺️ Installation file | [`/INSTALL.rst`](/INSTALL.rst) | A file that gives instructions on how to install this project (reStructuredText) |
+| 🖥️ Linux Desktop entry file | [`/K.desktop`](/K.desktop) | A Linux desktop entry file for this project, allowing it to be easily launched on UNIX-like systems |
+| 💳️ License file | [`/LICENSE-GPL.scss`](/LICENSE-GPL.scss) | A GNU GPL3 license file for this project, with the SCSS file extension |
+| 💳️ License file | [`/LICENSE-GPL.txt`](/LICENSE-GPL.txt) | A GNU GPL3 license file for this project, with the Plain Text file extension |
+| 💳️ License file | [`/LICENSE-GPL3.scss`](/LICENSE-GPL3.asm) | A GNU GPL3 license file for this project, with the SCSS file extension |
+| 💳️ License file | [`/LICENSE-GPL3.txt`](/LICENSE-GPL3.txt) | A GNU GPL3 license file for this project, with the Plain Text file extension |
+| 💳️ License file | [`/LICENSE.scss`](/LICENSE.h) | A GNU GPL3 license file for this project, with the SCSS file extension |
+| 💳️ License file | [`/LICENSE.txt`](/LICENSE.txt) | A GNU GPL3 license file for this project, with the Plain Text file extension |
+| 🌐️ HTML project language file | [`/PROJECT_LANG_1.htm`](/PROJECT_LANG_1.htm) | A project language file for this project, indicating usage of the HTML programming language as a major language here. | 
+| 🌐️ HTML project language file | [`/PROJECT_LANG_1.html`](/PROJECT_LANG_1.html) | A project language file for this project, indicating usage of the HTML programming language as a major language here. | 
+| 🌐️ MHTML project language file | [`/PROJECT_LANG_1.mhtm`](/PROJECT_LANG_1.mhtm) | A project language file for this project, indicating usage of the HTML programming language as a major language here. | 
+| 🌐️ MHTML project language file | [`/PROJECT_LANG_1.mhtml`](/PROJECT_LANG_1.mhtml) | A project language file for this project, indicating usage of the HTML programming language as a major language here. | 
+| 🌐️ XHTML project language file | [`/PROJECT_LANG_1.xhtm`](/PROJECT_LANG_1.xhtm) | A project language file for this project, indicating usage of the HTML programming language as a major language here. | 
+| 🌐️ XHTML project language file | [`/PROJECT_LANG_1.xhtml`](/PROJECT_LANG_1.xhtml) | A project language file for this project, indicating usage of the HTML programming language as a major language here. | 
+| 📄️ Markdown project language file | [`/PROJECT_LANG_2.markdown`](/PROJECT_LANG_2.markdown) | A project language file for this project, indicating usage of the Markdown programming language as a major language here. |
+| 📄️ Markdown project language file | [`/PROJECT_LANG_2.md`](/PROJECT_LANG_2.md) | A project language file for this project, indicating usage of the Markdown programming language as a major language here. |
+| 📄️ Markdown project language file | [`/PROJECT_LANG_2.mdown`](/PROJECT_LANG_2.mdown) | A project language file for this project, indicating usage of the Markdown programming language as a major language here. |
+| 📄️ Markdown project language file | [`/PROJECT_LANG_2.mkd`](/PROJECT_LANG_2.mkd) | A project language file for this project, indicating usage of the Markdon programming language as a major language here. | 
+| 🖌️ SCSS project language file | [`/PROJECT_LANG_3.scss`](/PROJECT_LANG_3.scss) | A project language file for this project, indicating usage of the SCSS programming language as a major language here. |
+| 🖌️ CSS project language file | [`/PROJECT_LANG_4.css`](/PROJECT_LANG_4.css) | A project language file for this project, indicating usage of the CSS programming language as a major language here. |
+| 📜️ JavaScript project language file | [`/PROJECT_LANG_5.cjs`](/PROJECT_LANG_5.cjs) | A project language file for this project, indicating usage of the JavaScript programming language as a major language here. |
+| 📜️ JavaScript project language file | [`/PROJECT_LANG_5.mjs`](/PROJECT_LANG_5.mjs) | A project language file for this project, indicating usage of the JavaScript programming language as a major language here. |
+| 📜️ JavaScript project language file | [`/PROJECT_LANG_5.js`](/PROJECT_LANG_5.js) | A project language file for this project, indicating usage of the JavaScript programming language as a major language here. |
+| 🐘️ PHP project language file | [`/PROJECT_LANG_6.php`](/PROJECT_LANG_6.php) | A project language file for this project, indicating usage of the PHP programming language as a major language here. |
+| 💎️ Ruby project language file | [`/PROJECT_LANG_7.gem`](/PROJECT_LANG_7.gem) | A project language file for this project, indicating usage of the Ruby programming language as a major language here. |
+| 💎️ Ruby project language file | [`/PROJECT_LANG_7.rake`](/PROJECT_LANG_7.rake) | A project language file for this project, indicating usage of the Ruby programming language as a major language here. |
+| 💎️ Ruby project language file | [`/PROJECT_LANG_7.rb`](/PROJECT_LANG_7.rb) | A project language file for this project, indicating usage of the Ruby programming language as a major language here. |
+| 💎️ Ruby project language file | [`/PROJECT_LANG_7.rbx`](/PROJECT_LANG_7.rbx) | A project language file for this project, indicating usage of the Ruby programming language as a major language here. |
+| 💎️ Ruby project language file | [`/PROJECT_LANG_7.ruby`](/PROJECT_LANG_7.ruby) | A project language file for this project, indicating usage of the Ruby programming language as a major language here. |
+| 🐍️ Python project language file | [`/PROJECT_LANG_8.py`](/PROJECT_LANG_8.py) | A project language file for this project, indicating usage of the Python programming language as a major language here. |
+| 🐍️ Python project language file | [`/PROJECT_LANG_8.py3`](/PROJECT_LANG_8.py3) | A project language file for this project, indicating usage of the Python programming language as a major language here. |
+| 🐍️ Python project language file | [`/PROJECT_LANG_8.pyt`](/PROJECT_LANG_8.pyt) | A project language file for this project, indicating usage of the Python programming language as a major language here. |
+| 🐍️ Python project language file | [`/PROJECT_LANG_8.pyw`](/PROJECT_LANG_8.pyw) | A project language file for this project, indicating usage of the Python programming language as a major language here. |
+| 📄️ Roff project language file | [`/PROJECT_LANG_9.1`](/PROJECT_LANG_9.1) | A project language file for this project, indicating usage of the Roff programming language as a major language here. |
+| 📄️ Roff project language file | [`/PROJECT_LANG_9.roff`](/PROJECT_LANG_9.roff) | A project language file for this project, indicating usage of the Roff programming language as a major language here. |
+| 📄️ YAML project language file | [`/PROJECT_LANG_10.yaml`](/PROJECT_LANG_10.yaml) | A project language file for this project, indicating usage of the YAML programming language as a major language here. |
+| 📄️ YAML project language file | [`/PROJECT_LANG_10.yml`](/PROJECT_LANG_10.yml) | A project language file for this project, indicating usage of the YAML programming language as a major language here. |
+| 📄️ Plain Text project language file | [`/PROJECT_LANG_11.txt`](/PROJECT_LANG_11.txt) | A project language file for this project, indicating usage of the Plain Text language as a major language here. |
+| 📄️ Robots.txt project language file | [`/PROJECT_LANG_12.robots.txt`](/PROJECT_LANG_12.robots.txt) | A project language file for this project, indicating usage of the robots.txt language as a major language here. |
+| 🖼️ SVG project language file | [`/PROJECT_LANG_13.svg`](/PROJECT_LANG_13.svg) | A project language file for this project, indicating usage of the SVG programming language as a major language here. |
+| ⚙️ INI/CFG project language file | [`/PROJECT_LANG_14.cfg`](/PROJECT_LANG_14.cfg) | A project language file for this project, indicating usage of the INI programming language as a major language here. |
+| ⚙️ INI/CFG project language file | [`/PROJECT_LANG_14.ini`](/PROJECT_LANG_14.ini) | A project language file for this project, indicating usage of the INI programming language as a major language here. |
+| 🖥️ KDE Desktop entry project language file | [`/PROJECT_LANG_15.desktop`](/PROJECT_LANG_15.desktop) | A project language file for this project, indicating usage of the KDE Desktop configuration language as a major language here. |
+| 🔨️ Makefile project language file | [`/PROJECT_LANG_16.mak`](/PROJECT_LANG_16.mak) | A project language file for this project, indicating usage of the Makefile programming language as a major language here. |
+| 🔨️ Makefile project language file | [`/PROJECT_LANG_16.make`](/PROJECT_LANG_16.make) | A project language file for this project, indicating usage of the Makefile programming language as a major language here. |
+| 🔨️ Makefile project language file | [`/PROJECT_LANG_16.mk`](/PROJECT_LANG_16.mk) | A project language file for this project, indicating usage of the Makefile programming language as a major language here. |
+| 👑️ Nim project language file | [`/PROJECT_LANG_17.nim`](/PROJECT_LANG_17.mim) | A project language file for this project, indicating usage of the Nim programming language as a major language here. |
+| 👑️ Nim project language file | [`/PROJECT_LANG_17.nimble`](/PROJECT_LANG_17.mimble) | A project language file for this project, indicating usage of the Nim programming language as a major language here. |
+| 👑️ Nim project language file | [`/PROJECT_LANG_17.nimrod`](/PROJECT_LANG_17.mimrod) | A project language file for this project, indicating usage of the Nim programming language as a major language here. |
+| ⚙️ Assembly project language file | [`/PROJECT_LANG_18.asm`](/PROJECT_LANG_18.asm) | A project language file for this project, indicating usage of the Assembly programming language as a major language here. |
+| 🐫️ Perl project language file | [`/PROJECT_LANG_19.pl`](/PROJECT_LANG_19.pl) | A project language file for this project, indicating usage of the Perl programming language as a major language here. |
+| 🌐️ HTTP project language file | [`/PROJECT_LANG_20.http`](/PROJECT_LANG_20.http) | A project language file for this project, indicating usage of the HTTP programming language as a major language here. |
+| 🦀️ Rust project language file | [`/PROJECT_LANG_21.rs`](/PROJECT_LANG_21.rs) | A project language file for this project, indicating usage of the Rust programming language as a major language here. |
+| ⭐️ README file | [`/README.md`](/README.md) | The main README.md file for this project, explaining how to use this project, and where to start. |
+| 📜️ Rootfiles list file | [`/ROOTFILES.base`](/ROOTFILES.base) | The ROOTFILES base file for this project, listing all files and folders at the root of this repository. |
+| 🛡️ Security file | [`/SECURITY.md`](/SECURITY.md) | For listing security information for this project. |
+| 🖼️ Image file | [`/SponsorButton.png`](/SponsorButton.png) | An image file that shows the GitHub sponsor button in this project. |
+| 1️⃣️ Initial file | [`/WacOS-Other.md`](/WacOS-Other.md) | An initial file, indicating which branch of the generation template was used to create this repository. |
+| ⚙️ Configuration file | [`/_config.yml`](/_config.yml) | A configuration file for the Jekyll theme on this project. |
+| 🖥️ Windows Desktop entry file | [`/desktop.ini`](/desktop.ini) | The Windows desktop entry file for this project. |
+| 🔨️ Makefile | [`/makefile.mk`](/makefile.mk) | The main GNU Make build file for this project. |
+| 📃️ Pull request template | [`/pull_request_template.md`](/pull_request_template.md) | The pull request template file for this project, a template for starting a Git pull request. |
+| **📁️ Type 📄️** | **🔍️ Location 🔎️** | **ℹ️ Purpose ℹ️** |
 
-> [02.1 - List of pages](#List-of-pages)
-
-> [02.2 - Listing with dead links](#Listing with dead links)
-
-[03.0 - Wiki](#Wiki)
-
-[04.0 - History](#History)
-
-> [04.1 - Pre-history](#Pre-history)
-
-> [04.2 - Alpha History](#Alpha-history)
-
-> [04.3 - Beta History](#Beta-history)
-
-> [04.4 - Modern History](#Modern-history)
-
-[05.0 - Copying](#Copying)
-
-[06.0 - Credits](#Credits)
-
-[07.0 - Installation](#Installation)
-
-[08.0 - Version history](#Version-history)
-
-[09.0 - Version history](#Version-history)
-
-[10.0 - Software status](#Software-status)
-
-[11.0 - Sponsor info](#Sponsor-info)
-
-[12.0 - Contributers](#Contributers)
-
-[13.0 - Issues](#Issues)
-
-> [13.1 - Current issues](#Current-issues)
-
-> [13.2 - Past issues](#Past-issues)
-
-> [13.3 - Past pull requests](#Past-pull-requests)
-
-> [13.4 - Active pull requests](#Active-pull-requests)
-
-[14.0 - Resources](#Resources)
-
-[15.0 - Contributing](#Contributing)
-
-[16.0 - File Info](#File-info)
-
-[17.0 - File history](#File-history)
-
-[18.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [18.9 - End of file](#EOF)
+<!-- /%/2001_THIS-REPOSITORY_SECTION.END\%\ !-->
 
 ***
 
 # Seanpm2001-GitHub-Pages-Collection
+
 An archived backup collection of all of my GitHub pages projects as of 2022, August 7th, in preparation for mass deletion of the organizations.
 
 As of 2022, August 16th, all organizations have been deleted. This is the only remaining copy of the GitHub pages site data at the moment. Unfortunately, the version control structure was one of the things that couldn't be salvaged.
 
 The organization this project is named after was used for the archival and development of my projects that rely on/work in the GitHub pages environment, which I first started using on June 21st 2021.
+
+Starting on 2025, March 24th, I started to create separate repositories for each former website. I plan to do the same thing with related snapcraft packages afterwards.
 
 ***
 
@@ -458,7 +631,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SafeT-dev.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_SafeT-dev.github.io/)
 
 40. [ScreenTeX.github.io](/Gh-Pages/ScreenTeX.github.io/)
 
@@ -466,7 +639,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/ScreenTeX.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_ScreenTeX.github.io/)
 
 41. [Seanpm2001-Biology.github.io](/Gh-Pages/Seanpm2001-Biology.github.io/)
 
@@ -474,7 +647,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Biology.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Biology.github.io/)
 
 42. [Seanpm2001-Blocklist.github.io](/Gh-Pages/Seanpm2001-Blocklist.github.io/)
 
@@ -482,7 +655,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Blocklist.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Blocklist.github.io/)
 
 43. [Seanpm2001-Bots.github.io](/Gh-Pages/Seanpm2001-Bots.github.io/)
 
@@ -490,7 +663,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Bots.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Bots.github.io/)
 
 44. [Seanpm2001-COVID-19.github.io](/Gh-Pages/Seanpm2001-COVID-19.github.io/)
 
@@ -686,7 +859,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SNU-Erotica.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_SNU-Erotica.github.io/)
 
 68. [SNU-Porn.github.io](/Gh-Pages/SNU-Porn.github.io/)
 
@@ -694,7 +867,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SNU-Porn.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_SNU-Porn.github.io/)
 
 69. [SNU-Programming-Tools.github.io](/Gh-Pages/SNU-Programming-Tools.github.io/)
 
@@ -702,7 +875,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SNU-Programming-Tools.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_SNU-Programming-Tools.github.io/)
 
 70. [SNU-TimeMachine.github.io](/Gh-Pages/SNU-TimeMachine.github.io/)
 
@@ -710,7 +883,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SNU-TimeMachine.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_SNU-TimeMachine.github.io/)
 
 71. [SuperPower-laptops.github.io](/Gh-Pages/SuperPower-laptops.github.io/)
 
@@ -726,7 +899,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SVG-video.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_SVG-video.github.io/)
 
 73. [TalkScript.github.io](/Gh-Pages/TalkScript.github.io/)
 
@@ -1337,12 +1510,12 @@ Contributing is allowed for this project, as long as you follow the rules of the
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `3 (2025, Friday, March 28th at 04:17 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,551` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `10,364` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `075,193` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `069,078` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `075,596` <!-- TODO: This line should be updated daily !-->
+- **File version:** `4 (2025, Saturday, March 29th at 04:40 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,749` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `13,445` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `097,058` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `087,754` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `100,128` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1493,6 +1666,31 @@ History of this file.
 - [ ] No other changes in version 3
 
 </details> <!-- End of file history: V3 !-->
+
+---
+
+## Version 4 (2025, Saturday, March 29th at 04:40 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 4</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the fourth release of this README file. It is a major update that finishes modernizing this file._
+
+> Changes:
+
+- [x] Added 10 links to some of the new archive repositories
+- [x] Updated the `Index` section
+- [x] Updated the `Language switcher` section
+- [x] Added the `This repository` section
+- [x] Updated the `About` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 4
+- [x] Updated the Index section
+- [ ] No other changes in version 4
+
+</details> <!-- End of file history: V4 !-->
 
 ---
 
