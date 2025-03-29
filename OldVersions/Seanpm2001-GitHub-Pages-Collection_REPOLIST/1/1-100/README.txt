@@ -2,17 +2,17 @@
 //// Seanpm2001-GitHub-Pages-Collection_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all GitHub Pages project repositories by @seanpm2001
-//// As of 2025, Friday, March 28th
+//// As of 2025, Saturday, March 29th
 
 //// ----------------------------------------------------- \\\\
-//// GitHub Pages Collection Project (41)
+//// GitHub Pages Collection Project (51)
 //// ----------------------------------------------------- \\\\
 
 //// Seanpm2001 GitHub Pages Collection Core (1)
 
 https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection
 
-//// GitHub Pages archive repositories (40)
+//// GitHub Pages archive repositories (50)
 
 https://github.com/seanpm2001/ARCHIVE_404-Day.github.io
 https://github.com/seanpm2001/ARCHIVE_9x-Internet.github.io
@@ -54,10 +54,20 @@ https://github.com/seanpm2001/ARCHIVE_Reactop-computers.github.io
 https://github.com/seanpm2001/ARCHIVE_SNU-0D.github.io
 https://github.com/seanpm2001/ARCHIVE_SNU-Beliefs.github.io
 https://github.com/seanpm2001/ARCHIVE_SNU-DennisRitchieMemorial.github.io
+https://github.com/seanpm2001/ARCHIVE_SNU-Erotica.github.io
+https://github.com/seanpm2001/ARCHIVE_SNU-Porn.github.io
+https://github.com/seanpm2001/ARCHIVE_SNU-Programming-Tools.github.io
+https://github.com/seanpm2001/ARCHIVE_SNU-TimeMachine.github.io
+https://github.com/seanpm2001/ARCHIVE_SVG-video.github.io
+https://github.com/seanpm2001/ARCHIVE_SafeT-dev.github.io
+https://github.com/seanpm2001/ARCHIVE_ScreenTeX.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Biology.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Blocklist.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Bots.github.io
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 GitHub Pages Collection): 41
-//// 1+40=41
+//// Repo count (Seanpm2001 GitHub Pages Collection): 51
+//// 1+50=51
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -69,15 +79,15 @@ https://github.com/seanpm2001/ARCHIVE_SNU-DennisRitchieMemorial.github.io
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 41
-//// 41+0=41
+//// Total repo count: 51
+//// 51+0=51
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 5 (2025, Friday, March 28th at 04:18 pm PST)
-//// Line count (including blank lines and compiler line): 84
+//// File version: 6 (2025, Saturday, March 29th at 04:37 pm PST)
+//// Line count (including blank lines and compiler line): 94
 //// ----------------------------------------------------- \\\\
 
 //// End of file
