@@ -671,7 +671,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-COVID-19.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanpm2001-COVID-19.github.io/)
 
 45. [Seanpm2001-Firefox.github.io](/Gh-Pages/Seanpm2001-Firefox.github.io/)
 
@@ -679,7 +679,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Firefox.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Firefox.github.io/)
 
 46. [Seanpm2001-Food-Index.github.io](/Gh-Pages/Seanpm2001-Food-Index.github.io/)
 
@@ -687,7 +687,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Food-Index.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Food-Index.github.io/)
 
 47. [Seanpm2001-education.github.io](/Gh-Pages/Seanpm2001-education.github.io/) - This was created after the original set was uploaded. It is an attempted recreation
 
@@ -695,7 +695,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-education.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanpm2001-education.github.io/)
 
 48. [seanpm2001.github.io](/Gh-Pages/seanpm2001.github.io/)
 
@@ -711,7 +711,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Health.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Health.github.io/)
 
 50. [Seanpm2001-KhanAcademy.github.io](/Gh-Pages/Seanpm2001-KhanAcademy.github.io/)
 
@@ -719,7 +719,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-KhanAcademy.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanpm2001-KhanAcademy.github.io/)
 
 51. [Seanpm2001-KolibriGames.github.io](/Gh-Pages/Seanpm2001-KolibriGames.github.io/)
 
@@ -727,7 +727,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-KolibriGames.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanpm2001-KolibriGames.github.io/)
 
 52. [Seanpm2001-Robotics.github.io](/Gh-Pages/Seanpm2001-Robotics.github.io/)
 
@@ -735,7 +735,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Robotics.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Robotics.github.io/)
 
 53. [Seanpm2001-Scratch.github.io](/Gh-Pages/Seanpm2001-Scratch.github.io/)
 
@@ -743,7 +743,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Scratch.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Scratch.github.io/)
 
 54. [Seanpm2001-Testing.github.io](/Gh-Pages/Seanpm2001-Testing.github.io/)
 
@@ -751,7 +751,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanpm2001-Testing.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Testing.github.io/)
 
 55. [seanwallawalla-bots.github.io](/Gh-Pages/seanwallawalla-bots.github.io/)
 
@@ -1510,12 +1510,12 @@ Contributing is allowed for this project, as long as you follow the rules of the
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `4 (2025, Saturday, March 29th at 04:40 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,749` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `13,445` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `097,058` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `087,754` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `100,128` <!-- TODO: This line should be updated daily !-->
+- **File version:** `5 (2025, Sunday, March 30th at 04:29 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,770` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `13,610` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `098,177` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `088,782` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `101,247` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1692,6 +1692,27 @@ History of this file.
 
 </details> <!-- End of file history: V4 !-->
 
+---
+
+## Version 5 (2025, Sunday, March 30th at 04:29 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 5</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the fifth release of this README file. It is a basic maintenance update._
+
+> Changes:
+
+- [x] Added 10 links to some of the new archive repositories
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 5
+- [ ] No other changes in version 5
+
+</details> <!-- End of file history: V5 !-->
+
+---
 ---
 
 _End of file history section._
