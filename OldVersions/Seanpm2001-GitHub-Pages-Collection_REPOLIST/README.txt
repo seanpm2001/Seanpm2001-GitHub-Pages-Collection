@@ -2,17 +2,17 @@
 //// Seanpm2001-GitHub-Pages-Collection_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all GitHub Pages project repositories by @seanpm2001
-//// As of 2025, Saturday, March 29th
+//// As of 2025, Sunday, March 30th
 
 //// ----------------------------------------------------- \\\\
-//// GitHub Pages Collection Project (51)
+//// GitHub Pages Collection Project (61)
 //// ----------------------------------------------------- \\\\
 
 //// Seanpm2001 GitHub Pages Collection Core (1)
 
 https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection
 
-//// GitHub Pages archive repositories (50)
+//// GitHub Pages archive repositories (60)
 
 https://github.com/seanpm2001/ARCHIVE_404-Day.github.io
 https://github.com/seanpm2001/ARCHIVE_9x-Internet.github.io
@@ -64,10 +64,20 @@ https://github.com/seanpm2001/ARCHIVE_ScreenTeX.github.io
 https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Biology.github.io
 https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Blocklist.github.io
 https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Bots.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanpm2001-COVID-19.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Firefox.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Food-Index.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Health.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanpm2001-KhanAcademy.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanpm2001-KolibriGames.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Robotics.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Scratch.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Testing.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanpm2001-education.github.io
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 GitHub Pages Collection): 51
-//// 1+50=51
+//// Repo count (Seanpm2001 GitHub Pages Collection): 61
+//// 1+60=61
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -79,15 +89,15 @@ https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Bots.github.io
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 51
-//// 51+0=51
+//// Total repo count: 61
+//// 61+0=61
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 6 (2025, Saturday, March 29th at 04:37 pm PST)
-//// Line count (including blank lines and compiler line): 94
+//// File version: 7 (2025, Sunday, March 30th at 04:26 pm PST)
+//// Line count (including blank lines and compiler line): 104
 //// ----------------------------------------------------- \\\\
 
 //// End of file
