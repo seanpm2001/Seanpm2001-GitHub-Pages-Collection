@@ -767,7 +767,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/seanwallawalla.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository]((https://github.com/seanpm2001/ARCHIVE_Seanwallawalla-health.github.io/)
 
 57. [Seanwallawalla-Health.github.io](/Gh-Pages/Seanwallawalla-Health.github.io/)
 
@@ -795,7 +795,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Self-Care-Bot.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Self-Care-Bot.github.io/)
 
 60. [SimZonns.github.io](/Gh-Pages/SimZonns.github.io/)
 
@@ -803,7 +803,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SimZonns.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_SimZonns.github.io/)
 
 61. [Slaveworks.github.io](/Gh-Pages/Slaveworks.github.io/)
 
@@ -811,7 +811,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Slaveworks.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Slaveworks.github.io/)
 
 62. [Slick-license-manager.github.io](/Gh-Pages/Slick-license-manager.github.io/)
 
@@ -819,7 +819,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Slick-license-manager.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Slick-license-manager.github.io/)
 
 63. [Snail-bob-maker.github.io](/Gh-Pages/Snail-bob-maker.github.io/)
 
@@ -827,7 +827,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Snail-bob-maker.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Snail-bob-maker.github.io/)
 
 64. [SNU-0D.github.io](/Gh-Pages/SNU-0D.github.io/)
 
@@ -1510,12 +1510,12 @@ Contributing is allowed for this project, as long as you follow the rules of the
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `5 (2025, Sunday, March 30th at 04:29 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,770` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `13,610` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `098,177` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `088,782` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `101,247` <!-- TODO: This line should be updated daily !-->
+- **File version:** `6 (2025, Wednesday, April 2nd at 05:20 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,789` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `13,750` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `099,075` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `089,583` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `102,145` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1713,6 +1713,25 @@ History of this file.
 </details> <!-- End of file history: V5 !-->
 
 ---
+
+## Version 6 (2025, Wednesday, April 2nd at 05:20 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 6</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the sixth release of this README file. It is a basic maintenance update._
+
+> Changes:
+
+- [x] Added 6 links to some of the new archive repositories
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
+
+</details> <!-- End of file history: V6 !-->
+
 ---
 
 _End of file history section._
