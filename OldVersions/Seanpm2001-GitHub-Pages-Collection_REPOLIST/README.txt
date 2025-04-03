@@ -2,17 +2,17 @@
 //// Seanpm2001-GitHub-Pages-Collection_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all GitHub Pages project repositories by @seanpm2001
-//// As of 2025, Sunday, March 30th
+//// As of 2025, Wednesday, April 2nd
 
 //// ----------------------------------------------------- \\\\
-//// GitHub Pages Collection Project (61)
+//// GitHub Pages Collection Project (67)
 //// ----------------------------------------------------- \\\\
 
 //// Seanpm2001 GitHub Pages Collection Core (1)
 
 https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection
 
-//// GitHub Pages archive repositories (60)
+//// GitHub Pages archive repositories (66)
 
 https://github.com/seanpm2001/ARCHIVE_404-Day.github.io
 https://github.com/seanpm2001/ARCHIVE_9x-Internet.github.io
@@ -74,10 +74,16 @@ https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Robotics.github.io
 https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Scratch.github.io
 https://github.com/seanpm2001/ARCHIVE_Seanpm2001-Testing.github.io
 https://github.com/seanpm2001/ARCHIVE_Seanpm2001-education.github.io
+https://github.com/seanpm2001/ARCHIVE_Seanwallawalla-health.github.io
+https://github.com/seanpm2001/ARCHIVE_Self-Care-Bot.github.io
+https://github.com/seanpm2001/ARCHIVE_SimZonns.github.io
+https://github.com/seanpm2001/ARCHIVE_Slaveworks.github.io
+https://github.com/seanpm2001/ARCHIVE_Slick-license-manager.github.io
+https://github.com/seanpm2001/ARCHIVE_Snail-bob-maker.github.io
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 GitHub Pages Collection): 61
-//// 1+60=61
+//// Repo count (Seanpm2001 GitHub Pages Collection): 67
+//// 1+66=67
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -89,15 +95,15 @@ https://github.com/seanpm2001/ARCHIVE_Seanpm2001-education.github.io
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 61
-//// 61+0=61
+//// Total repo count: 67
+//// 67+0=67
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 7 (2025, Sunday, March 30th at 04:26 pm PST)
-//// Line count (including blank lines and compiler line): 104
+//// File version: 8 (2025, Wednesday, April 2nd at 05:22 pm PST)
+//// Line count (including blank lines and compiler line): 110
 //// ----------------------------------------------------- \\\\
 
 //// End of file
