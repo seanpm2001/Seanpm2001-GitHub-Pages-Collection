@@ -2,17 +2,17 @@
 //// Seanpm2001-GitHub-Pages-Collection_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all GitHub Pages project repositories by @seanpm2001
-//// As of 2025, Thursday, April 3rd
+//// As of 2025, Friday, April 4th
 
 //// ----------------------------------------------------- \\\\
-//// GitHub Pages Collection Project (75)
+//// GitHub Pages Collection Project (83)
 //// ----------------------------------------------------- \\\\
 
 //// Seanpm2001 GitHub Pages Collection Core (1)
 
 https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection
 
-//// GitHub Pages archive repositories (74)
+//// GitHub Pages archive repositories (82)
 
 https://github.com/seanpm2001/ARCHIVE_404-Day.github.io
 https://github.com/seanpm2001/ARCHIVE_9x-Internet.github.io
@@ -88,10 +88,18 @@ https://github.com/seanpm2001/ARCHIVE_The-Pirates-Copy.github.io
 https://github.com/seanpm2001/ARCHIVE_TouchPetsDog2Rewritten.github.io
 https://github.com/seanpm2001/ARCHIVE_TuxBot-operating-system.github.io
 https://github.com/seanpm2001/ARCHIVE_URLL-Specification.github.io
+https://github.com/seanpm2001/ARCHIVE_UltimateCalculator.github.io
+https://github.com/seanpm2001/ARCHIVE_Underune-maker.github.io
+https://github.com/seanpm2001/ARCHIVE_Virg-io-dev.github.io
+https://github.com/seanpm2001/ARCHIVE_WacOS-dev.github.io
+https://github.com/seanpm2001/ARCHIVE_YKDefender.github.io
+https://github.com/seanpm2001/ARCHIVE_ZooTree.github.io
+https://github.com/seanpm2001/ARCHIVE_iBlast-Game.github.io
+https://github.com/seanpm2001/ARCHIVE_seanpm2001.github.io
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Seanpm2001 GitHub Pages Collection): 75
-//// 1+74=75
+//// Repo count (Seanpm2001 GitHub Pages Collection): 83
+//// 1+82=83
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -103,15 +111,15 @@ https://github.com/seanpm2001/ARCHIVE_URLL-Specification.github.io
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 75
-//// 75+0=75
+//// Total repo count: 83
+//// 83+0=83
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 9 (2025, Thursday, April 3rd at 05:10 pm PST)
-//// Line count (including blank lines and compiler line): 118
+//// File version: 10 (2025, Friday, April 4th at 04:16 pm PST)
+//// Line count (including blank lines and compiler line): 126
 //// ----------------------------------------------------- \\\\
 
 //// End of file
