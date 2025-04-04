@@ -497,7 +497,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/iBlast-Game.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_iBlast-Game.github.io/)
 
 26. [Its-time-to-cut-WideVine-DRM.github.io](/Gh-Pages/Its-time-to-cut-WideVine-DRM.github.io/)
 
@@ -703,7 +703,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: main](/Gh-Pages/seanpm2001.github.io/Branches/main/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_seanpm2001.github.io/)
 
 49. [Seanpm2001-Health.github.io](/Gh-Pages/Seanpm2001-Health.github.io/)
 
@@ -767,7 +767,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/seanwallawalla.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository]((https://github.com/seanpm2001/ARCHIVE_Seanwallawalla-health.github.io/)
+> > [:octocat: Separate repository (coming soon)](#anchor)
 
 57. [Seanwallawalla-Health.github.io](/Gh-Pages/Seanwallawalla-Health.github.io/)
 
@@ -775,7 +775,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanwallawalla-Health.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository (coming soon)](https://github.com/seanpm2001/ARCHIVE_Seanwallawalla-health.github.io/)
 
 58. [seanwallawalla-testing.github.io](/Gh-Pages/seanwallawalla-testing.github.io/)
 
@@ -891,7 +891,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SuperPower-laptops.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository]https://github.com/seanpm2001/ARCHIVE_SuperPower-laptops.github.io/)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_SuperPower-laptops.github.io/)
 
 72. [SVG-video.github.io](/Gh-Pages/SVG-video.github.io/)
 
@@ -957,7 +957,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/UltimateCalculator.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_UltimateCalculator.github.io/)
 
 80. [Underune-maker.github.io](/Gh-Pages/Underune-maker.github.io/)
 
@@ -965,7 +965,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Underune-maker.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Underune-maker.github.io/)
 
 81. [uOffice.github.io](/Gh-Pages/uOffice.github.io/)
 
@@ -989,7 +989,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Virg-io-dev.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Virg-io-dev.github.io/)
 
 84. [WacOS-dev.github.io](/Gh-Pages/WacOS-dev.github.io/)
 
@@ -997,7 +997,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/WacOS-dev.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_WacOS-dev.github.io/)
 
 85. [YKDefender.github.io](/Gh-Pages/YKDefender.github.io/)
 
@@ -1005,7 +1005,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/YKDefender.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_YKDefender.github.io/)
 
 86. [ZooTree.github.io](/Gh-Pages/ZooTree.github.io/)
 
@@ -1013,7 +1013,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/ZooTree.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_ZooTree.github.io/)
 
 </details>
 
@@ -1510,12 +1510,12 @@ Contributing is allowed for this project, as long as you follow the rules of the
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `7 (2025, Thursday, April 3rd at 05:12 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,809` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `13,899` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `100,072` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `090,486` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `103,142` <!-- TODO: This line should be updated daily !-->
+- **File version:** `8 (2025, Friday, April 4th at 04:15 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,829` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `14,049` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `101,039` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `091,357` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `104,109` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1751,6 +1751,26 @@ History of this file.
 - [ ] No other changes in version 7
 
 </details> <!-- End of file history: V7 !-->
+
+---
+
+## Version 8 (2025, Friday, April 4th at 04:15 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 8</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the eighth release of this README file. It is a basic maintenance update._
+
+> Changes:
+
+- [x] Added 8 links to some of the new archive repositories
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 8
+- [ ] No other changes in version 8
+
+</details> <!-- End of file history: V8 !-->
 
 ---
 
