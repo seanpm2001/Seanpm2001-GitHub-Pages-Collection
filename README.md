@@ -891,7 +891,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/SuperPower-laptops.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository]https://github.com/seanpm2001/ARCHIVE_SuperPower-laptops.github.io/)
 
 72. [SVG-video.github.io](/Gh-Pages/SVG-video.github.io/)
 
@@ -907,7 +907,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/TalkScript.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_TalkScript.github.io/)
 
 74. [Team8Collection.github.io](/Gh-Pages/Team8Collection.github.io/)
 
@@ -915,7 +915,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Team8Collection.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Team8Collection.github.io/)
 
 75. [Tetris128.github.io](/Gh-Pages/Tetris128.github.io/)
 
@@ -923,7 +923,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Tetris128.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Tetris128.github.io/)
 
 76. [The-Pirates-Copy.github.io](/Gh-Pages/The-Pirates-Copy.github.io/)
 
@@ -931,7 +931,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/The-Pirates-Copy.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_The-Pirates-Copy.github.io/)
 
 77. [TouchPetsDogs2Rewritten.github.io](/Gh-Pages/TouchPetsDogs2Rewritten.github.io/)
 
@@ -941,7 +941,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: seanpm2001-patch-1](/Gh-Pages/TouchPetsDogs2Rewritten.github.io/Branches/seanpm2001-patch-1/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_TouchPetsDog2Rewritten.github.io/)
 
 78. [TuxBot-operating-system.github.io](/Gh-Pages/TuxBot-operating-system.github.io/)
 
@@ -949,7 +949,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/TuxBot-operating-system.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_TuxBot-operating-system.github.io/)
 
 79. [UltimateCalculator.github.io](/Gh-Pages/UltimateCalculator.github.io/)
 
@@ -981,7 +981,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/URLL-Specification.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_URLL-Specification.github.io/)
 
 83. [Virg-io-dev.github.io](/Gh-Pages/Virg-io-dev.github.io/)
 
@@ -1510,12 +1510,12 @@ Contributing is allowed for this project, as long as you follow the rules of the
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `6 (2025, Wednesday, April 2nd at 05:20 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,789` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `13,750` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `099,075` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `089,583` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `102,145` <!-- TODO: This line should be updated daily !-->
+- **File version:** `7 (2025, Thursday, April 3rd at 05:12 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,809` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `13,899` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `100,072` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `090,486` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `103,142` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1731,6 +1731,26 @@ History of this file.
 - [ ] No other changes in version 6
 
 </details> <!-- End of file history: V6 !-->
+
+---
+
+## Version 7 (2025, Thursday, April 3rd at 05:12 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 7</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the seventh release of this README file. It is a basic maintenance update._
+
+> Changes:
+
+- [x] Added 8 links to some of the new archive repositories
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 7
+- [ ] No other changes in version 7
+
+</details> <!-- End of file history: V7 !-->
 
 ---
 
