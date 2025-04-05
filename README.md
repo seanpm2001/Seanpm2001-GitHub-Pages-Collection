@@ -759,7 +759,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/seanwallawalla-bots.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_seanwallawalla-bots.github.io/)
 
 56. [seanwallawalla.github.io](/Gh-Pages/seanwallawalla.github.io/)
 
@@ -767,7 +767,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/seanwallawalla.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_seanwallawalla.github.io/)
 
 57. [Seanwallawalla-Health.github.io](/Gh-Pages/Seanwallawalla-Health.github.io/)
 
@@ -775,7 +775,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/Seanwallawalla-Health.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](https://github.com/seanpm2001/ARCHIVE_Seanwallawalla-health.github.io/)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_Seanwallawalla-health.github.io/)
 
 58. [seanwallawalla-testing.github.io](/Gh-Pages/seanwallawalla-testing.github.io/)
 
@@ -787,7 +787,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/seanwallawalla-testing.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_seanwallawalla-testing.github.io/)
 
 59. [Self-Care-Bot.github.io](/Gh-Pages/Self-Care-Bot.github.io/)
 
@@ -973,7 +973,7 @@ See above. This project is for the archival of my GitHub Pages projects prior to
 
 > [Branch: Site](/Gh-Pages/uOffice.github.io/Branches/Site/)
 
-> > [:octocat: Separate repository (coming soon)](#anchor)
+> > [:octocat: Separate repository](https://github.com/seanpm2001/ARCHIVE_uOffice.github.io/)
 
 82. [URLL-Specification.github.io](/Gh-Pages/URLL-Specification.github.io/)
 
@@ -1510,12 +1510,12 @@ Contributing is allowed for this project, as long as you follow the rules of the
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `8 (2025, Friday, April 4th at 04:15 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `1,829` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `14,049` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `101,039` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `091,357` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `104,109` <!-- TODO: This line should be updated daily !-->
+- **File version:** `9 (2025, Saturday, April 5th at 04:27 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `1,849` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `14,180` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `101,883` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `092,093` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `104,953` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1771,6 +1771,26 @@ History of this file.
 - [ ] No other changes in version 8
 
 </details> <!-- End of file history: V8 !-->
+
+---
+
+## Version 9 (2025, Saturday, April 5th at 04:27 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 9</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This is the ninth release of this README file. It is a basic maintenance update, and likely the last update for a while._
+
+> Changes:
+
+- [x] Added 4 links to some of the new archive repositories
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 9
+- [ ] No other changes in version 9
+
+</details> <!-- End of file history: V9 !-->
 
 ---
 
